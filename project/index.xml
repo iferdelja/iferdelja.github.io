@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on IvanF.</title>
-    <link>http://replace-this-with-your-hugo-site.com/project/</link>
+    <link>http://www.ivanferdelja.com/project/</link>
     <description>Recent content in Projects on IvanF.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 04 Mar 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.ivanferdelja.com/project/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Colored Tabs for Android</title>
-      <link>http://replace-this-with-your-hugo-site.com/project/colored-tabs/</link>
+      <link>http://www.ivanferdelja.com/project/colored-tabs/</link>
       <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/project/colored-tabs/</guid>
+      <guid>http://www.ivanferdelja.com/project/colored-tabs/</guid>
       <description>
 
 &lt;h1 id=&#34;colored-tabs-for-android:13cb7cce3f3e21d19c4d025f2b57c8f6&#34;&gt;Colored Tabs for Android&lt;/h1&gt;
@@ -28,10 +28,10 @@ App is available on Github.&lt;/p&gt;
     
     <item>
       <title>PatchUp for iOS</title>
-      <link>http://replace-this-with-your-hugo-site.com/project/patchup/</link>
+      <link>http://www.ivanferdelja.com/project/patchup/</link>
       <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/project/patchup/</guid>
+      <guid>http://www.ivanferdelja.com/project/patchup/</guid>
       <description>
 
 &lt;h1 id=&#34;patchup-for-ios:972f62d6014ca9d655de39902879a6f4&#34;&gt;PatchUp for iOS&lt;/h1&gt;
@@ -40,10 +40,10 @@ App is available on Github.&lt;/p&gt;
     
     <item>
       <title>AgentCASH Smart POS for Android</title>
-      <link>http://replace-this-with-your-hugo-site.com/project/agent-cash/</link>
+      <link>http://www.ivanferdelja.com/project/agent-cash/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/project/agent-cash/</guid>
+      <guid>http://www.ivanferdelja.com/project/agent-cash/</guid>
       <description>
 
 &lt;h1 id=&#34;agentcash-smart-pos-for-android:ff4b829910d6cedab061487599e62f3f&#34;&gt;AgentCASH Smart POS for Android&lt;/h1&gt;
