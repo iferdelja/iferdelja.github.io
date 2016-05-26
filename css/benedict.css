@@ -1,0 +1,286 @@
+/*div {
+  border-color: #000000;
+  border-style: solid;
+  border-width: 1px;
+  box-sizing: border-box;
+}*/
+
+body {
+    /*color: #777;*/
+    margin: 0px;
+    background-color:  rgba(0,0,0,0.1);
+}
+
+#main {
+    margin-right: 100px;
+    margin-bottom: 100px;
+}
+
+.header {
+    font-family: 'Lato', serif;
+    font-size: 1.6em;
+    font-weight: 400;
+    text-align: left;
+ }
+
+.section-title {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+  font-size:1em;
+  width: 200px;
+}
+/*
+a {
+  
+}
+
+a:hover,
+a:focus {
+  text-decoration: underline;
+}
+a:visited {
+  color: #265778;
+}*/
+
+.small-print {
+  font-size: 0.8em;
+  margin: 0.6em;
+}
+
+.post-meta {
+  font-family: 'Lato', sans-serif;
+  font-size: 90%;
+}
+
+article > footer {
+  text-align: right;
+}
+
+.prev-next-post {
+  padding-top: 1em;
+  padding-bottom: 2em;
+}
+
+.prev-next-post .prev {
+  float: left;
+  text-align: left;
+  overflow: hidden;
+  font-family: 'Lato', serif;
+}
+
+.prev-next-post .next {
+  float: right;
+  text-align: right;
+  overflow: hidden;
+  font-family: 'Lato', serif;
+
+}
+
+.next a, .prev a {
+  text-decoration: none;
+  color: #000;
+}
+
+#menu .brand {
+  font-family: 'Lato', serif;
+  font-weight: 900;
+  font-size: 1.8em;
+  color: #000;
+  text-transform: none;
+  background: transparent;
+  text-decoration: none;
+}
+
+#menu .brand-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.small-brand {
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  font-size: 0.8em;
+  color: #000;
+  text-transform: none;
+  background: transparent;
+  text-decoration: none;
+  margin: 0.5em 0;
+}
+
+#menu .pure-menu {
+  font-size: 0.9em;
+}
+
+i {
+  display: inline-block;
+  margin-right: 0.2em;
+}
+
+.pagination {
+  text-align: center;
+  margin-top: 3em;
+}
+
+.pagination a {
+  color: #265778;
+}
+
+.project-summary {
+  width: 250px;
+  height: 250px;
+ 
+  margin-right: 20px;
+  margin-bottom: 20px;
+  display: inline-block;
+}
+
+.project-thumb {
+    max-width: 100%;
+    height: auto;
+    background-color: rgba(0,0,0,0.05);
+}
+
+.post-image img {
+    width: 100%;
+    height: auto;
+}
+
+/* This is done for post images! */
+figure {
+  margin: 2em 0px;
+}
+
+.project-summary a {
+  font-family: 'Lato', sans-serif;
+  color: #000;
+  font-size: 1.2em;
+  text-decoration: none;
+}
+
+.post-summary {
+  margin-bottom: 30px;
+}
+
+.post-summary a {
+  font-family: 'Lato', sans-serif;
+  color: #000;
+  font-size: 1.2em;
+  text-decoration: none;
+}
+
+.post-summary header {
+  margin-bottom: 8px;
+}
+.post-summary span {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  color: #000;
+  font-size: 0.9em;
+  text-decoration: none;
+}
+
+.section-horizontal-rule {
+  border:none;
+  color:#bbb;
+  background-color: #bbb;
+  height: 1px;
+  margin: 50px;
+}
+
+.end-post-horizontal-rule {
+    border:none;
+  color:#bbb;
+  background-color: #bbb;
+  height: 1px;
+  margin-top: 75px;
+}
+
+.contact {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size:1em;
+}
+
+.post-header {
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+.post-header h1 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size:2em;
+}
+
+.post-content {
+  margin-left: 50px;
+  margin-top: 50px;
+  margin-right: 300px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size:1em;
+}
+/* -- Responsive Styles (Media Queries) ------------------------------------- */
+
+/*
+Hides the menu at `48em`, but modify this based on your app's needs.
+*/
+@media (min-width: 48em) {
+
+    .header {
+      margin-top: 50px;
+      margin-bottom: 50px;
+      margin-left: 50px;
+    }
+
+    .section-summary-content {
+      
+    }
+
+    #layout {
+        padding-left: 200px; /* left col width "#menu" */
+        left: 0;
+    }
+    #menu {
+        left: 200px;
+    }
+
+    .menu-link {
+        /*position: fixed;
+        left: 150px;*/
+        display: none;
+    }
+
+    #layout.active {
+        left: 200px;
+    }
+
+    #small-brand {
+        display: none;
+    }
+
+    .projects-content {
+      display: flex;
+      flex-wrap: wrap;
+    }
+
+    .section-summary {
+      margin-left: 50px;
+      display: flex;
+    }
+}
+
+@media (max-width: 48em) {
+    /* Only apply this when the window is small. Otherwise, the following
+    case results in extra padding on the left:
+        * Make the window small.
+        * Tap the menu to trigger the active state.
+        * Make the window large again.
+    */
+    #layout.active {
+        position: relative;
+        left: 200px;
+    }
+
+}

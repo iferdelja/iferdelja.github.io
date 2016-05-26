@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IvanF.</title>
+    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <description>Recent content on IvanF.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Colored Tabs for Android</title>
+      <link>http://replace-this-with-your-hugo-site.com/project/colored-tabs/</link>
+      <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/project/colored-tabs/</guid>
+      <description>
+
+&lt;h1 id=&#34;colored-tabs-for-android:13cb7cce3f3e21d19c4d025f2b57c8f6&#34;&gt;Colored Tabs for Android&lt;/h1&gt;
+
+&lt;p&gt;Colored Tabs is a concept app to explore aspects of Material design.
+Story video content is displayed on a TextureView instead of SurfaceView. Considering SurfaceView is rendered in a separate window from the app, artifacts were clearly visible while scrolling in either direction.
+Design created by iliketotouchinterfaces.com
+App is available on Github.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PatchUp for iOS</title>
+      <link>http://replace-this-with-your-hugo-site.com/project/patchup/</link>
+      <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/project/patchup/</guid>
+      <description>
+
+&lt;h1 id=&#34;patchup-for-ios:972f62d6014ca9d655de39902879a6f4&#34;&gt;PatchUp for iOS&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What I learned from Uber about trust</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/uber-trust/</link>
+      <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/uber-trust/</guid>
+      <description>&lt;p&gt;Ever since Uber arrived in Zagreb few months ago, I have been using it on a regular basis and made about 50 trips thus far.&lt;/p&gt;
+
+&lt;p&gt;Three things excite me about Uber:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Mobile app they provide is just awesome. Few months ago I wrote a post about a terrible experience I had with an app provided by Ubers main competitor in Zagreb. Suffice it to say that Uber app is a couple of centuries ahead.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Drivers working for Uber seem to belong to a different population compared to competitor drivers or even compared to most of the general population in Zagreb. These guys understand the benefits Uber brings to a reeking market hungry for some fresh ideas and new faces. They understand the simple economics Uber set up. If they suck, their customers will rate them poorly and they will die.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;And the thing I like most, no more damn cash. Hallelujah.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;figure class=&#34;post-image&#34;&gt;
+    
+        &lt;img src=&#34;http://replace-this-with-your-hugo-site.com/img/uber.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I use Uber most often on one specific 3.5 mile route. On my latest trip via that route, the driver decided to take a couple of unnecessary turns. This added an extra mile and an extra one euro to my invoice. I rated the guy &lt;sup&gt;4&lt;/sup&gt;&amp;frasl;&lt;sub&gt;5&lt;/sub&gt; and attached a short comment on how they should really try to take the shortest route. No hard feelings, just trying to be a good customer.&lt;/p&gt;
+
+&lt;p&gt;Following day, I actually got an email from the local customer service representative in Zagreb, apologising for the mishap. A pretty standard response, but a nice gesture nonetheless.&lt;/p&gt;
+
+&lt;p&gt;What really amazed me is that he went a step further. He decided to act on his words and prove he means what he said. He must have looked through my trips and somehow figured out the anomalous extra mile I was charged with. He then cancelled my original invoice and charged a new one minus the one euro! Wow!!&lt;/p&gt;
+
+&lt;p&gt;For me, being a resident of Zagreb and feeling strongly about the nature of a healthy customer relationship, this was like an outer space experience.&lt;/p&gt;
+
+&lt;p&gt;This time, the driver lost a euro but Uber found a happy customer. More importantly, they proved to understand the fundamental way trust is formed between people. Be it a customer using a service or people working together or just two friends, basic rule is always the same.&lt;/p&gt;
+
+&lt;p&gt;Nice words dry out quickly. You acquire trust only by acting on them.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Making Square REGISTER appealing to nightclubs</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/square-nightclubs/</link>
+      <pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/square-nightclubs/</guid>
+      <description>&lt;p&gt;At 2AM on a cold Saturday night I was standing on the upper level of a nightclub, observing the party below. The dance floor has gone wild and the bar is crowded. Behind the bar, couple of waiters were running wild trying to keep up with the orders. And they were doing a damn good job. I wondered how long it would take for me to get this good. The POS software they used was the most popular POS in Adriatic nightclubs and restaurants. Its damn ugly but Its doing an incredible job, spitting out receipts at lightning speed.&lt;/p&gt;
+
+&lt;p&gt;Back then I was part of a team building an entirely new POS app. The reason we came to this club was to learn firsthand how exactly waiters interacted with their POS and what kind of real-life demands must this kind of software meet.&lt;/p&gt;
+
+&lt;p&gt;Coming from the mobile app industry the vision in our minds was always one of an interface that is simple and functional yet visually appealing. Our all time role model was therefore Square Register, one of the best apps ever built. Square&amp;rsquo;s app was literally our holy grail.&lt;/p&gt;
+
+
+&lt;figure class=&#34;post-image&#34;&gt;
+    
+        &lt;img src=&#34;http://replace-this-with-your-hugo-site.com/img/club-bar.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;However, looking at the waiters below, I reluctantly had to admit that these guys would probably hate Square. Reason for that is that, unlike the software they were using, Square was not tailor made for an Adriatic nightclub and they would have a hard time using it.&lt;/p&gt;
+
+&lt;p&gt;While observing the waiters, one behaviour in particular came immediately to my attention. Two waiters were using the POS app on the same device. Thus they kept signing in and out of the app. Whoever built the app was well aware of this requirement, so app made it possible for the waiters to switch extremely quickly. Square&amp;rsquo;s app did not offer this switching feature, and it would have made their job impossible to do.&lt;/p&gt;
+
+&lt;p&gt;Back then Square was limited in terms of user management so I decided to imagine what a employee switching feature would look like in the Square Register app. I added a bit of my own design in Sketch on top of Square screenshots and put together a Framer prototype. Feel free to try it out below.&lt;/p&gt;
+
+&lt;p&gt;Suffice it to say, solid reasons existed why Square and its nightclub competitor were built the way they were and both are still excellent apps in their segment.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://share.framerjs.com/e04yqqnkftsd/&#34; target=&#34;_blank&#34;&gt;Check out the Framer demo&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Disclaimer: While researching for this article I noticed that in the mean time Square enhanced its employee management. Thus employees can use their &amp;ldquo;device codes&amp;rdquo; to switch on the same device. Good job Square!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pieces of plastic have a story to tell</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/pieces-of-plastic/</link>
+      <pubDate>Sat, 28 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/pieces-of-plastic/</guid>
+      <description>&lt;p&gt;Having worked with card payment solutions, I formed a habit of noticing the POS hardware when waiting in line at the register.&lt;/p&gt;
+
+&lt;p&gt;Konzum (largest supermarket chain in Croatia) and IKEA Zagreb both use the same POS terminal made by the French company Ingenico. Terminal is also supplied with an optional PIN privacy shield to provide the customer with additional confidentiality.&lt;/p&gt;
+
+&lt;p&gt;Unlike Konzum, IKEA decided to buy the optional shield.&lt;/p&gt;
+
+
+&lt;figure class=&#34;post-image&#34;&gt;
+    
+        &lt;img src=&#34;http://replace-this-with-your-hugo-site.com/img/pos-terminal.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;This might not seem like a big deal, but card frauds don&amp;rsquo;t just happen to people you read about, they are real. Retailers have the job to ensure customers feel safe when reaching for their wallet.  Each time I enter my PIN at the Konzum supermarket I&amp;rsquo;m amazed at the utter lack of desire to help me keep my PIN safe. Which translates into a lack of desire to provide a pleasant store experience.&lt;/p&gt;
+
+&lt;p&gt;Someone at IKEA must have thought about this at some point and decided to align it with values they represent. When you walk through their store they are dedicated at making you feel at home. An essential thing home provides is feeling of safety. Simple as that.&lt;/p&gt;
+
+&lt;p&gt;So it leaves me wondering, did the Konzum team simply fail to consider this or did they decide the cost outweighed the love for their customers?&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s funny how an entire set of values (or lack thereof) boils down to a tiny plastic dongle.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AgentCASH Smart POS for Android</title>
+      <link>http://replace-this-with-your-hugo-site.com/project/agent-cash/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/project/agent-cash/</guid>
+      <description>
+
+&lt;h1 id=&#34;agentcash-smart-pos-for-android:ff4b829910d6cedab061487599e62f3f&#34;&gt;AgentCASH Smart POS for Android&lt;/h1&gt;
+
+&lt;p&gt;AgentCASH is a mobile payment system for Android that allows a business to accept card or cash payments any place, any time.
+App offers a wide range of features, to fully support all requirements of a small or medium business.
+Some of the features:
+add, edit and organise all products or services into a neat, clean and visually informative page system
+run cash or card payments (via a Bluetooth card reader)
+print receipts or issue them by e-mail and text messages
+manage customers and invoices&lt;/p&gt;
+
+&lt;p&gt;App is available on the Playstore.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why you need to care when customers call you</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/customer-care/</link>
+      <pubDate>Fri, 17 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/customer-care/</guid>
+      <description>&lt;p&gt;At quarter past eleven on a Wednesday night we learned that one of our customers had run into a problem. We decided not to wait solving it. Few minutes later, as I was leaving my apartment, I decided to use a popular app to get myself a taxi. As I walked down the staircase from the top floor of my building I got the notification - a car was on its way. The street outside was already quiet of the traffic. I stood at the corner and waited for the car.&lt;/p&gt;
+
+&lt;p&gt;Three minutes later, the white Peugeot arrived. As we were driving away, my phone rang. &amp;ldquo;Good evening, this is taxi no. &amp;hellip; ,  did you order a taxi?&amp;rdquo; - a male voice asked. The guy calling was apparently a driver of another taxi who got my request. &amp;ldquo;Yes but a car already picked me up. There must have been a mixup.&amp;rdquo;, I answered with a bit of confusion. Couple of minutes later, as we arrived to my office address, my phone rang again - another taxi driver, same question.&lt;/p&gt;
+
+&lt;p&gt;Having switched between WiFi and mobile network while placing the taxi order earlier, I realised the app must have failed to handle poor network conditions very well. Being on a problem solving trip myself, I got all worked up so I decided to give them a call.&lt;/p&gt;
+
+&lt;p&gt;On completing what felt like a short and pleasant conversation with the support guy I learned they had already experienced this very same problem a couple of times before. It also left me thinking how they seemed to really understand what I was saying and were serious about doing something about it.&lt;/p&gt;
+
+&lt;p&gt;Wrong.&lt;/p&gt;
+
+&lt;p&gt;As it turned out they did not really care what happens.&lt;/p&gt;
+
+&lt;p&gt;Few weeks later I used the app again. Same problem happened. This time with a twist. Two taxis showed up at the same moment, leaving it upon me to resolve the dispute with the agitated drivers.&lt;/p&gt;
+
+
+&lt;figure class=&#34;post-image&#34;&gt;
+    
+        &lt;img src=&#34;http://replace-this-with-your-hugo-site.com/img/mono-phone.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Problems are inevitable and they will happen. But regardless of the product or a service being delivered, there is always a choice to care or not to care about the people using it.&lt;/p&gt;
+
+&lt;p&gt;Working at a payment service provider it is clear to us that every bump in the road will interfere with a key part of our customers business. Dealing with a sensitive topic such as money means that effects of potential issues scale up tremendously.&lt;/p&gt;
+
+&lt;p&gt;When a customer reaches out to you for help, they decided to share their story about your product. So listen. The first thing occupying their mind is how their own life, business and customers will be affected. They are not calling to play the blame game and point fingers as soon as you pick up the phone. They just want to keep your relationship going. So use this opportunity wisely.&lt;/p&gt;
+
+&lt;p&gt;What they really want is for you to acknowledge their situation and relieve them of their worries. When you respond fast and take over, their problems immediately become your problems and this makes them feel safe. Customers that feel safe are the ones that ultimately stick.&lt;/p&gt;
+
+&lt;p&gt;Going back to the office that night made sure we solved the problem quickly and efficiently within an hour. We gave a call to the customer the following morning and he was already back on track.&lt;/p&gt;
+
+&lt;p&gt;Demonstrating a lack of care will ultimately result in loss of trust and one customer less. Being on the daily front line of our own product, I cannot imagine a goal more important then making sure we continue to care.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
