@@ -11,24 +11,12 @@ body {
     background-color:  rgba(0,0,0,0.1);
 }
 
-#main {
-    margin-right: 100px;
-    margin-bottom: 100px;
-}
-
 .header {
     font-family: 'Lato', serif;
-    font-size: 1.6em;
     font-weight: 400;
     text-align: left;
  }
 
-.section-title {
-  font-family: 'Lato', sans-serif;
-  font-weight: 700;
-  font-size:1em;
-  width: 200px;
-}
 /*
 a {
   
@@ -100,7 +88,7 @@ article > footer {
 .small-brand {
   font-family: 'Lato', sans-serif;
   font-weight: bold;
-  font-size: 0.8em;
+  font-size: 1.6em;
   color: #000;
   text-transform: none;
   background: transparent;
@@ -126,15 +114,6 @@ i {
   color: #265778;
 }
 
-.project-summary {
-  width: 250px;
-  height: 250px;
- 
-  margin-right: 20px;
-  margin-bottom: 20px;
-  display: inline-block;
-}
-
 .project-thumb {
     max-width: 100%;
     height: auto;
@@ -154,7 +133,6 @@ figure {
 .project-summary a {
   font-family: 'Lato', sans-serif;
   color: #000;
-  font-size: 1.2em;
   text-decoration: none;
 }
 
@@ -185,7 +163,6 @@ figure {
   color:#bbb;
   background-color: #bbb;
   height: 1px;
-  margin: 50px;
 }
 
 .end-post-horizontal-rule {
@@ -202,25 +179,12 @@ figure {
   font-size:1em;
 }
 
-.post-header {
-  margin-left: 50px;
-  margin-top: 50px;
-}
-
 .post-header h1 {
   font-family: 'Lato', sans-serif;
   font-weight: 400;
   font-size:2em;
 }
 
-.post-content {
-  margin-left: 50px;
-  margin-top: 50px;
-  margin-right: 300px;
-  font-family: 'Lato', sans-serif;
-  font-weight: 400;
-  font-size:1em;
-}
 /* -- Responsive Styles (Media Queries) ------------------------------------- */
 
 /*
@@ -228,10 +192,16 @@ Hides the menu at `48em`, but modify this based on your app's needs.
 */
 @media (min-width: 48em) {
 
+    #main {
+        margin-right: 100px;
+        margin-bottom: 100px;
+        padding-left: 50px;
+    }
+
     .header {
       margin-top: 50px;
       margin-bottom: 50px;
-      margin-left: 50px;
+      font-size: 1.6em;
     }
 
     .section-summary-content {
@@ -266,8 +236,45 @@ Hides the menu at `48em`, but modify this based on your app's needs.
     }
 
     .section-summary {
-      margin-left: 50px;
       display: flex;
+    }
+
+    .section-horizontal-rule {
+      margin: 50px 0px;
+    }
+
+    .section-title {
+      font-family: 'Lato', sans-serif;
+      font-weight: 700;
+      font-size:1.1em;
+      width: 200px;
+    }
+
+    .project-summary {
+      width: 250px;
+      height: 250px;
+      margin-right: 20px;
+      margin-bottom: 20px;
+      display: inline-block;
+    }
+
+    .project-summary a {
+      font-size: 1.2em;
+    }
+
+
+    .post-header {
+      margin-left: 50px;
+      margin-top: 50px;
+    }
+
+    .post-content {
+      margin-left: 50px;
+      margin-top: 50px;
+      margin-right: 300px;
+      font-family: 'Lato', sans-serif;
+      font-weight: 400;
+      font-size:1em;
     }
 }
 
@@ -281,6 +288,48 @@ Hides the menu at `48em`, but modify this based on your app's needs.
     #layout.active {
         position: relative;
         left: 200px;
+    }
+
+    #main {
+      padding: 20px 20px;
+    }
+
+    .header {
+      margin: 1em 0px;
+      font-size: 1.2em;
+    }
+
+    .section-horizontal-rule {
+      margin: 25px 0px;
+    }
+
+    .section-title {
+      font-family: 'Lato', sans-serif;
+      font-weight: 700;
+      font-size:1.2em;
+      width: 100%;
+      margin-bottom: 25px;
+    }
+
+    .project-summary {
+      width: 100%;
+      height: auto;
+      margin-bottom: 30px;
+      display: inline-block;
+    }
+
+    .project-summary a {
+      font-size: 1.4em;
+    }    
+
+
+    .post-header {
+    }
+
+    .post-content {
+      font-family: 'Lato', sans-serif;
+      font-weight: 400;
+      font-size:1em;
     }
 
 }
