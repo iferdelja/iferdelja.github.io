@@ -15,14 +15,24 @@
       <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www.ivanferdelja.com/project/colored-tabs/</guid>
-      <description>
+      <description>&lt;p&gt;Colored Tabs is a concept Android app to explore aspects of &lt;a href=&#34;https://www.google.com/design/spec/material-design/introduction.html&#34; target=&#34;_blank&#34;&gt;Material design&lt;/a&gt; such as immersion, cards etc.&lt;/p&gt;
 
-&lt;h1 id=&#34;colored-tabs-for-android:13cb7cce3f3e21d19c4d025f2b57c8f6&#34;&gt;Colored Tabs for Android&lt;/h1&gt;
+&lt;p&gt;Design created by &lt;a class=&#34;inline-link&#34; href=&#34;http://iliketotouchinterfaces.com&#34; target=&#34;_blank&#34;&gt;Vedran Židanik&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Colored Tabs is a concept app to explore aspects of Material design.
-Story video content is displayed on a TextureView instead of SurfaceView. Considering SurfaceView is rendered in a separate window from the app, artifacts were clearly visible while scrolling in either direction.
-Design created by iliketotouchinterfaces.com
-App is available on Github.&lt;/p&gt;
+&lt;p&gt;Source available on &lt;a class=&#34;inline-link&#34; href=&#34;https://github.com/iferdelja/colored-tabs&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Tech note: Story feed video content is displayed on a TextureView instead of SurfaceView. Considering SurfaceView is rendered in a separate window from the app, artifacts were clearly visible while scrolling in either direction.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&#34;playstore-link&#34; target=&#34;_blank&#34; href=&#39;https://play.google.com/store/apps/details?id=com.ivanferdelja.coloredtabs&amp;hl=en&amp;utm_source=global_co&amp;utm_medium=prtnr&amp;utm_content=Mar2515&amp;utm_campaign=PartBadge&amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1&#39;&gt;&lt;img alt=&#39;Get it on Google Play&#39; src=&#39;https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png&#39;/&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a target=&#34;_blank&#34; href=&#39;https://play.google.com/store/apps/details?id=com.ivanferdelja.coloredtabs&amp;hl=en&amp;utm_source=global_co&amp;utm_medium=prtnr&amp;utm_content=Mar2515&amp;utm_campaign=PartBadge&amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1&#39;&gt;
+&lt;figure class=&#34;post-image&#34;&gt;
+    
+        &lt;img src=&#34;http://www.ivanferdelja.com/img/colored-tabs.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -32,10 +42,7 @@ App is available on Github.&lt;/p&gt;
       <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www.ivanferdelja.com/project/patchup/</guid>
-      <description>
-
-&lt;h1 id=&#34;patchup-for-ios:972f62d6014ca9d655de39902879a6f4&#34;&gt;PatchUp for iOS&lt;/h1&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -44,11 +51,7 @@ App is available on Github.&lt;/p&gt;
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
       
       <guid>http://www.ivanferdelja.com/project/agent-cash/</guid>
-      <description>
-
-&lt;h1 id=&#34;agentcash-smart-pos-for-android:ff4b829910d6cedab061487599e62f3f&#34;&gt;AgentCASH Smart POS for Android&lt;/h1&gt;
-
-&lt;p&gt;AgentCASH is a mobile payment system for Android that allows a business to accept card or cash payments any place, any time.
+      <description>&lt;p&gt;AgentCASH is a mobile payment system for Android that allows a business to accept card or cash payments any place, any time.
 App offers a wide range of features, to fully support all requirements of a small or medium business.
 Some of the features:
 add, edit and organise all products or services into a neat, clean and visually informative page system

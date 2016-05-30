@@ -63,11 +63,11 @@ appears on the left side of the page.
 /*
 All anchors inside the menu should be styled like this.
 */
-#menu a {
+/*#menu a {
     color: #000;
     border: none;
     /*padding: 0.6em 0 0.6em 0.6em;*/
-}
+}*/
 
 /*
 Remove all background/borders, since we are applying them to #menu.

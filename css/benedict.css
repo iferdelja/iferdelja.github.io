@@ -8,27 +8,39 @@
 body {
     /*color: #777;*/
     margin: 0px;
-    background-color:  rgba(0,0,0,0.1);
+    background-color: #F2F2F2;
+}
+
+.inline-link a {
+  text-decoration: none;
+  font-weight: 700;  
+}
+
+a:visited {
+  color: #403e3f;
+}
+
+a:hover, a:visited:hover {
+  color: #E2231A;
+}
+
+
+#menu .brand {
+  font-family: 'Playfair Display', serif;
+  font-weight: 900;
+  font-size: 1.8em;
+  color: #403E3F;
+  text-transform: none;
+  background: transparent;
+  text-decoration: none;
 }
 
 .header {
-    font-family: 'Lato', serif;
+    font-family: 'Playfair Display', serif;
     font-weight: 400;
     text-align: left;
+    color: #403E3F;
  }
-
-/*
-a {
-  
-}
-
-a:hover,
-a:focus {
-  text-decoration: underline;
-}
-a:visited {
-  color: #265778;
-}*/
 
 .small-print {
   font-size: 0.8em;
@@ -36,8 +48,9 @@ a:visited {
 }
 
 .post-meta {
-  font-family: 'Lato', sans-serif;
-  font-size: 90%;
+  font-family: 'Playfair Display', serif;
+  font-size: 1em;
+  color: #8c8c8c;
 }
 
 article > footer {
@@ -53,30 +66,20 @@ article > footer {
   float: left;
   text-align: left;
   overflow: hidden;
-  font-family: 'Lato', serif;
+  font-family: 'Playfair Display', serif;
 }
 
 .prev-next-post .next {
   float: right;
   text-align: right;
   overflow: hidden;
-  font-family: 'Lato', serif;
+  font-family: 'Playfair Display', serif;
 
 }
 
 .next a, .prev a {
   text-decoration: none;
-  color: #000;
-}
-
-#menu .brand {
-  font-family: 'Lato', serif;
-  font-weight: 900;
-  font-size: 1.8em;
-  color: #000;
-  text-transform: none;
-  background: transparent;
-  text-decoration: none;
+  color: #403E3F;
 }
 
 #menu .brand-container {
@@ -86,10 +89,10 @@ article > footer {
 }
 
 .small-brand {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Playfair Display', serif;
   font-weight: bold;
   font-size: 1.6em;
-  color: #000;
+  color: #403E3F;
   text-transform: none;
   background: transparent;
   text-decoration: none;
@@ -117,7 +120,10 @@ i {
 .project-thumb {
     max-width: 100%;
     height: auto;
-    background-color: rgba(0,0,0,0.05);
+    border-color: #d9d9d9;
+    border-width: 2px;
+    border-style: solid;
+    margin-bottom: 10px;
 }
 
 .post-image img {
@@ -131,58 +137,68 @@ figure {
 }
 
 .project-summary a {
-  font-family: 'Lato', sans-serif;
-  color: #000;
+  font-family: 'Playfair Display', serif;
+  color: #403E3F;
   text-decoration: none;
 }
 
 .post-summary {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 .post-summary a {
-  font-family: 'Lato', sans-serif;
-  color: #000;
-  font-size: 1.2em;
+  font-family: 'Playfair Display', serif;
+  color: #403E3F;
+  font-size: 1.1em;
   text-decoration: none;
 }
 
 .post-summary header {
-  margin-bottom: 8px;
+
 }
 .post-summary span {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Playfair Display', serif;
   font-weight: 300;
-  color: #000;
+  color: #d9d9d9;
   font-size: 0.9em;
+
   text-decoration: none;
 }
 
 .section-horizontal-rule {
   border:none;
-  color:#bbb;
-  background-color: #bbb;
+  color:#d9d9d9;
+  background-color: #d9d9d9;
   height: 1px;
 }
 
 .end-post-horizontal-rule {
     border:none;
-  color:#bbb;
-  background-color: #bbb;
+  color:#d9d9d9;
+  background-color: #d9d9d9;
   height: 1px;
   margin-top: 75px;
 }
 
 .contact {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Playfair Display', serif;
   font-weight: 400;
   font-size:1em;
 }
 
 .post-header h1 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Playfair Display', serif;
   font-weight: 400;
-  font-size:2em;
+  font-size:1.8em;
+}
+
+.section-title {
+  color: #403E3F;
+  font-family: 'Playfair Display', serif;
+}
+
+.playstore-link img {
+  max-width: 150px;
 }
 
 /* -- Responsive Styles (Media Queries) ------------------------------------- */
@@ -193,19 +209,20 @@ Hides the menu at `48em`, but modify this based on your app's needs.
 @media (min-width: 48em) {
 
     #main {
-        margin-right: 100px;
+        margin-right: 200px;
         margin-bottom: 100px;
-        padding-left: 50px;
+        padding-left: 100px;
     }
 
     .header {
       margin-top: 50px;
       margin-bottom: 50px;
-      font-size: 1.6em;
+      font-size: 1.8em;
     }
 
     .section-summary-content {
-      
+      justify-content: space-between;
+      width: 100%;
     }
 
     #layout {
@@ -237,6 +254,7 @@ Hides the menu at `48em`, but modify this based on your app's needs.
 
     .section-summary {
       display: flex;
+      margin-top: 100px;
     }
 
     .section-horizontal-rule {
@@ -244,22 +262,24 @@ Hides the menu at `48em`, but modify this based on your app's needs.
     }
 
     .section-title {
-      font-family: 'Lato', sans-serif;
       font-weight: 700;
       font-size:1.1em;
       width: 200px;
     }
 
     .project-summary {
-      width: 250px;
-      height: 250px;
-      margin-right: 20px;
+      width: 220px;
+      height: 220px;
       margin-bottom: 20px;
       display: inline-block;
     }
 
+    .project-summary:hover {
+      color: #E2231A
+    }
+
     .project-summary a {
-      font-size: 1.2em;
+      font-size: 1.1em;
     }
 
 
@@ -272,7 +292,7 @@ Hides the menu at `48em`, but modify this based on your app's needs.
       margin-left: 50px;
       margin-top: 50px;
       margin-right: 300px;
-      font-family: 'Lato', sans-serif;
+      font-family: 'Playfair Display', serif;
       font-weight: 400;
       font-size:1em;
     }
@@ -304,11 +324,14 @@ Hides the menu at `48em`, but modify this based on your app's needs.
     }
 
     .section-title {
-      font-family: 'Lato', sans-serif;
       font-weight: 700;
       font-size:1.2em;
       width: 100%;
       margin-bottom: 25px;
+    }
+
+    .section-summary {
+      margin-top: 60px;
     }
 
     .project-summary {
@@ -322,12 +345,15 @@ Hides the menu at `48em`, but modify this based on your app's needs.
       font-size: 1.4em;
     }    
 
-
     .post-header {
     }
 
+    .post-header h1 {
+      font-size: 1.6em;
+    }
+
     .post-content {
-      font-family: 'Lato', sans-serif;
+      font-family: 'Playfair Display', serif;
       font-weight: 400;
       font-size:1em;
     }
