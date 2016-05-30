@@ -3,18 +3,8 @@
   
   <url>
     <loc>http://www.ivanferdelja.com/</loc>
-    <lastmod>2016-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2016-01-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.ivanferdelja.com/project/colored-tabs/</loc>
-    <lastmod>2016-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.ivanferdelja.com/project/patchup/</loc>
-    <lastmod>2016-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -33,13 +23,23 @@
   </url>
   
   <url>
+    <loc>http://www.ivanferdelja.com/post/customer-care/</loc>
+    <lastmod>2015-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.ivanferdelja.com/project/agent-cash/</loc>
     <lastmod>2015-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.ivanferdelja.com/post/customer-care/</loc>
-    <lastmod>2015-04-17T00:00:00+00:00</lastmod>
+    <loc>http://www.ivanferdelja.com/project/patchup/</loc>
+    <lastmod>2016-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.ivanferdelja.com/project/colored-tabs/</loc>
+    <lastmod>2016-03-04T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
