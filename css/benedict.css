@@ -27,8 +27,9 @@ a:hover, a:visited:hover {
 
 #menu .brand {
   font-family: 'Open Sans', sans-serif;
-  font-weight: 900;
+  font-weight: 800;
   font-size: 1.8em;
+  letter-spacing: -0.05em;
   color: #403E3F;
   text-transform: none;
   background: transparent;
@@ -49,7 +50,7 @@ a:hover, a:visited:hover {
 
 .post-meta {
   font-family: 'Open Sans', sans-serif;
-  font-size: 1em;
+  font-size: 0.7em;
   color: #8c8c8c;
 }
 
@@ -90,8 +91,9 @@ article > footer {
 
 .small-brand {
   font-family: 'Open Sans', sans-serif;
-  font-weight: bold;
+  font-weight: 800;
   font-size: 1.6em;
+  letter-spacing: -0.05em;
   color: #403E3F;
   text-transform: none;
   background: transparent;
@@ -148,8 +150,9 @@ figure {
 
 .post-summary a {
   font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
   color: #403E3F;
-  font-size: 1.1em;
+  font-size: 1.0em;
   text-decoration: none;
 }
 
@@ -199,6 +202,11 @@ figure {
 
 .playstore-link img {
   max-width: 150px;
+}
+
+.social-link img {
+  margin-top: 10px;
+  max-width: 40px;
 }
 
 /* -- Responsive Styles (Media Queries) ------------------------------------- */
@@ -279,7 +287,8 @@ Hides the menu at `48em`, but modify this based on your app's needs.
     }
 
     .project-summary a {
-      font-size: 1.1em;
+      font-size: 1.0em;
+      font-weight: 400;
     }
 
 
