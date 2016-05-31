@@ -8,7 +8,7 @@
 body {
     /*color: #777;*/
     margin: 0px;
-    background-color: #F2F2F2;
+    background-color: #fff;
 }
 
 .inline-link a {
@@ -26,7 +26,7 @@ a:hover, a:visited:hover {
 
 
 #menu .brand {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 900;
   font-size: 1.8em;
   color: #403E3F;
@@ -36,8 +36,8 @@ a:hover, a:visited:hover {
 }
 
 .header {
-    font-family: 'Playfair Display', serif;
-    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
     text-align: left;
     color: #403E3F;
  }
@@ -48,7 +48,7 @@ a:hover, a:visited:hover {
 }
 
 .post-meta {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 1em;
   color: #8c8c8c;
 }
@@ -66,14 +66,14 @@ article > footer {
   float: left;
   text-align: left;
   overflow: hidden;
-  font-family: 'Playfair Display', serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .prev-next-post .next {
   float: right;
   text-align: right;
   overflow: hidden;
-  font-family: 'Playfair Display', serif;
+  font-family: 'Open Sans', sans-serif;
 
 }
 
@@ -89,7 +89,7 @@ article > footer {
 }
 
 .small-brand {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: bold;
   font-size: 1.6em;
   color: #403E3F;
@@ -137,7 +137,7 @@ figure {
 }
 
 .project-summary a {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Open Sans', sans-serif;
   color: #403E3F;
   text-decoration: none;
 }
@@ -147,7 +147,7 @@ figure {
 }
 
 .post-summary a {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Open Sans', sans-serif;
   color: #403E3F;
   font-size: 1.1em;
   text-decoration: none;
@@ -157,7 +157,7 @@ figure {
 
 }
 .post-summary span {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 300;
   color: #d9d9d9;
   font-size: 0.9em;
@@ -181,20 +181,20 @@ figure {
 }
 
 .contact {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   font-size:1em;
 }
 
 .post-header h1 {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   font-size:1.8em;
 }
 
 .section-title {
   color: #403E3F;
-  font-family: 'Playfair Display', serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .playstore-link img {
@@ -217,7 +217,7 @@ Hides the menu at `48em`, but modify this based on your app's needs.
     .header {
       margin-top: 50px;
       margin-bottom: 50px;
-      font-size: 1.8em;
+      font-size: 1.3em;
     }
 
     .section-summary-content {
@@ -254,7 +254,7 @@ Hides the menu at `48em`, but modify this based on your app's needs.
 
     .section-summary {
       display: flex;
-      margin-top: 100px;
+      margin-top: 80px;
     }
 
     .section-horizontal-rule {
@@ -263,7 +263,7 @@ Hides the menu at `48em`, but modify this based on your app's needs.
 
     .section-title {
       font-weight: 700;
-      font-size:1.1em;
+      font-size:0.9em;
       width: 200px;
     }
 
@@ -292,7 +292,7 @@ Hides the menu at `48em`, but modify this based on your app's needs.
       margin-left: 50px;
       margin-top: 50px;
       margin-right: 300px;
-      font-family: 'Playfair Display', serif;
+      font-family: 'Open Sans', sans-serif;
       font-weight: 400;
       font-size:1em;
     }
@@ -353,7 +353,7 @@ Hides the menu at `48em`, but modify this based on your app's needs.
     }
 
     .post-content {
-      font-family: 'Playfair Display', serif;
+      font-family: 'Open Sans', sans-serif;
       font-weight: 400;
       font-size:1em;
     }
