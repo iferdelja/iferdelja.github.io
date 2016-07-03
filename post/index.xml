@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on IvanF.</title>
-    <link>http://www.ivanferdelja.com/post/</link>
-    <description>Recent content in Posts on IvanF.</description>
+    <title>Posts on </title>
+    <link>/post/</link>
+    <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Wed, 27 Jan 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.ivanferdelja.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>What I learned from Uber about trust</title>
-      <link>http://www.ivanferdelja.com/post/uber-trust/</link>
+      <link>/post/uber-trust/</link>
       <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.ivanferdelja.com/post/uber-trust/</guid>
+      <guid>/post/uber-trust/</guid>
       <description>&lt;p&gt;Ever since Uber arrived in Zagreb few months ago, I have been using it on a regular basis and made about 50 trips thus far.&lt;/p&gt;
 
 &lt;p&gt;Three things excite me about Uber:&lt;/p&gt;
@@ -30,7 +29,7 @@
 
 &lt;figure class=&#34;post-image&#34;&gt;
     
-        &lt;img src=&#34;http://www.ivanferdelja.com/img/uber.png&#34; /&gt;
+        &lt;img src=&#34;/img/uber.png&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -52,10 +51,10 @@
     
     <item>
       <title>Making Square REGISTER appealing to nightclub segment</title>
-      <link>http://www.ivanferdelja.com/post/square-nightclubs/</link>
+      <link>/post/square-nightclubs/</link>
       <pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.ivanferdelja.com/post/square-nightclubs/</guid>
+      <guid>/post/square-nightclubs/</guid>
       <description>&lt;p&gt;At 2AM on a cold Saturday night I was standing on the upper level of a nightclub, observing the party below. The dance floor has gone wild and the bar is crowded. Behind the bar, couple of waiters were running wild trying to keep up with the orders. And they were doing a damn good job. I wondered how long it would take for me to get this good. The POS software they used was the most popular POS in Adriatic nightclubs and restaurants. Its damn ugly but Its doing an incredible job, spitting out receipts at lightning speed.&lt;/p&gt;
 
 &lt;p&gt;Back then I was part of a team building an entirely new POS app. The reason we came to this club was to learn firsthand how exactly waiters interacted with their POS and what kind of real-life demands must this kind of software meet.&lt;/p&gt;
@@ -65,7 +64,7 @@
 
 &lt;figure class=&#34;post-image&#34;&gt;
     
-        &lt;img src=&#34;http://www.ivanferdelja.com/img/club-bar.png&#34; /&gt;
+        &lt;img src=&#34;/img/club-bar.png&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -87,10 +86,10 @@
     
     <item>
       <title>Pieces of plastic have a story to tell</title>
-      <link>http://www.ivanferdelja.com/post/pieces-of-plastic/</link>
+      <link>/post/pieces-of-plastic/</link>
       <pubDate>Sat, 28 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://www.ivanferdelja.com/post/pieces-of-plastic/</guid>
+      <guid>/post/pieces-of-plastic/</guid>
       <description>&lt;p&gt;Having worked with card payment solutions, I formed a habit of noticing the POS hardware when waiting in line at the register.&lt;/p&gt;
 
 &lt;p&gt;Konzum (largest supermarket chain in Croatia) and IKEA Zagreb both use the same POS terminal made by the French company Ingenico. Terminal is also supplied with an optional PIN privacy shield to provide the customer with additional confidentiality.&lt;/p&gt;
@@ -100,7 +99,7 @@
 
 &lt;figure class=&#34;post-image&#34;&gt;
     
-        &lt;img src=&#34;http://www.ivanferdelja.com/img/pos-terminal.png&#34; /&gt;
+        &lt;img src=&#34;/img/pos-terminal.png&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -118,10 +117,10 @@
     
     <item>
       <title>Why you need to care when customers call you</title>
-      <link>http://www.ivanferdelja.com/post/customer-care/</link>
+      <link>/post/customer-care/</link>
       <pubDate>Fri, 17 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://www.ivanferdelja.com/post/customer-care/</guid>
+      <guid>/post/customer-care/</guid>
       <description>&lt;p&gt;At quarter past eleven on a Wednesday night we learned that one of our customers had run into a problem. We decided not to wait solving it. Few minutes later, as I was leaving my apartment, I decided to use a popular app to get myself a taxi. As I walked down the staircase from the top floor of my building I got the notification - a car was on its way. The street outside was already quiet of the traffic. I stood at the corner and waited for the car.&lt;/p&gt;
 
 &lt;p&gt;Three minutes later, the white Peugeot arrived. As we were driving away, my phone rang. &amp;ldquo;Good evening, this is taxi no. &amp;hellip; ,  did you order a taxi?&amp;rdquo; - a male voice asked. The guy calling was apparently a driver of another taxi who got my request. &amp;ldquo;Yes but a car already picked me up. There must have been a mixup.&amp;rdquo;, I answered with a bit of confusion. Couple of minutes later, as we arrived to my office address, my phone rang again - another taxi driver, same question.&lt;/p&gt;
@@ -139,7 +138,7 @@
 
 &lt;figure class=&#34;post-image&#34;&gt;
     
-        &lt;img src=&#34;http://www.ivanferdelja.com/img/mono-phone.jpg&#34; /&gt;
+        &lt;img src=&#34;/img/mono-phone.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -161,10 +160,10 @@
     
     <item>
       <title>Goodbye Parse. Hello Firebase. A migration story.</title>
-      <link>http://www.ivanferdelja.com/post/engineers-design/</link>
+      <link>/post/engineers-design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.ivanferdelja.com/post/engineers-design/</guid>
+      <guid>/post/engineers-design/</guid>
       <description>
 
 &lt;p&gt;Security rules&lt;/p&gt;
@@ -187,10 +186,10 @@
     
     <item>
       <title>Goodbye Parse. Hello Firebase. A migration story.</title>
-      <link>http://www.ivanferdelja.com/post/firebase-migration/</link>
+      <link>/post/firebase-migration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.ivanferdelja.com/post/firebase-migration/</guid>
+      <guid>/post/firebase-migration/</guid>
       <description>
 
 &lt;p&gt;Security rules&lt;/p&gt;

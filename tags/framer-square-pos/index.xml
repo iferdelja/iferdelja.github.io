@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Framer Square Pos on IvanF.</title>
-    <link>http://www.ivanferdelja.com/tags/framer-square-pos/</link>
-    <description>Recent content in Framer Square Pos on IvanF.</description>
+    <title>Framer Square Pos on </title>
+    <link>/tags/framer-square-pos/</link>
+    <description>Recent content in Framer Square Pos on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Tue, 05 Jan 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.ivanferdelja.com/tags/framer-square-pos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/framer-square-pos/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Making Square REGISTER appealing to nightclub segment</title>
-      <link>http://www.ivanferdelja.com/post/square-nightclubs/</link>
+      <link>/post/square-nightclubs/</link>
       <pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.ivanferdelja.com/post/square-nightclubs/</guid>
+      <guid>/post/square-nightclubs/</guid>
       <description>&lt;p&gt;At 2AM on a cold Saturday night I was standing on the upper level of a nightclub, observing the party below. The dance floor has gone wild and the bar is crowded. Behind the bar, couple of waiters were running wild trying to keep up with the orders. And they were doing a damn good job. I wondered how long it would take for me to get this good. The POS software they used was the most popular POS in Adriatic nightclubs and restaurants. Its damn ugly but Its doing an incredible job, spitting out receipts at lightning speed.&lt;/p&gt;
 
 &lt;p&gt;Back then I was part of a team building an entirely new POS app. The reason we came to this club was to learn firsthand how exactly waiters interacted with their POS and what kind of real-life demands must this kind of software meet.&lt;/p&gt;
@@ -24,7 +23,7 @@
 
 &lt;figure class=&#34;post-image&#34;&gt;
     
-        &lt;img src=&#34;http://www.ivanferdelja.com/img/club-bar.png&#34; /&gt;
+        &lt;img src=&#34;/img/club-bar.png&#34; /&gt;
     
     
 &lt;/figure&gt;

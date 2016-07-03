@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Parse Firebase on IvanF.</title>
-    <link>http://www.ivanferdelja.com/categories/parse-firebase/</link>
-    <description>Recent content in Parse Firebase on IvanF.</description>
+    <title>Parse Firebase on </title>
+    <link>/categories/parse-firebase/</link>
+    <description>Recent content in Parse Firebase on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="http://www.ivanferdelja.com/categories/parse-firebase/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/parse-firebase/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Goodbye Parse. Hello Firebase. A migration story.</title>
-      <link>http://www.ivanferdelja.com/post/engineers-design/</link>
+      <link>/post/engineers-design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.ivanferdelja.com/post/engineers-design/</guid>
+      <guid>/post/engineers-design/</guid>
       <description>
 
 &lt;p&gt;Security rules&lt;/p&gt;
@@ -36,10 +35,10 @@
     
     <item>
       <title>Goodbye Parse. Hello Firebase. A migration story.</title>
-      <link>http://www.ivanferdelja.com/post/firebase-migration/</link>
+      <link>/post/firebase-migration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.ivanferdelja.com/post/firebase-migration/</guid>
+      <guid>/post/firebase-migration/</guid>
       <description>
 
 &lt;p&gt;Security rules&lt;/p&gt;
