@@ -207,9 +207,12 @@ figure {
   max-width: 150px;
 }
 
+.social-link {
+  margin-right: 20px;
+}
+
 .social-link img {
   margin-top: 10px;
-  margin-right: 20px;
   max-width: 40px;
 }
 
