@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archives on IvanF.</title>
+    <link>http://www.ivanferdelja.com/archive/</link>
+    <description>Recent content in Archives on IvanF.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://www.ivanferdelja.com/archive/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bridge for iOS and Android</title>
+      <link>http://www.ivanferdelja.com/archive/bridge/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ivanferdelja.com/archive/bridge/</guid>
+      <description>&lt;p&gt;&lt;a href =&#34;http://www.trybridge.com&#34; target=&#34;_blank&#34;&gt;Bridge &lt;/a&gt;is a need-based search, communication, and networking tool that helps you find and access the right person for whatever you need, leveraging the network effect (“six degrees of separation”) of your friends and colleagues.&lt;/p&gt;
+
+&lt;p&gt;Bridge is also an omnipresent social capital exchange / platform / wallet, keeping track of &amp;ldquo;favors” between people, estimating how close the a person is to everyone in his or her network (phonebook) and establishing virtual currency that represents the &amp;ldquo;social capital&amp;rdquo; of each user.&lt;/p&gt;
+
+&lt;p&gt;App is currently in private beta.&lt;/p&gt;
+
+&lt;p&gt;&lt;a target=&#34;_blank&#34; href=&#39;http://www.trybridge.com&#39;&gt;
+&lt;figure class=&#34;post-image&#34;&gt;
+    
+        &lt;img src=&#34;http://www.ivanferdelja.com/img/bridge.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

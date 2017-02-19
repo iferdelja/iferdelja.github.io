@@ -30,9 +30,6 @@ This is the parent `<div>` that contains the menu and the content area.
     width: 200px;
 }
 
-#layout.active {
-    left: 200px;
-}
 
 .content-subhead {
     margin: 50px 0 20px 0;

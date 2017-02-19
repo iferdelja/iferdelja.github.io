@@ -9,6 +9,7 @@ body {
     /*color: #777;*/
     margin: 0px;
     background-color: #fff;
+    font-family: 'PT Serif', serif;
 }
 
 .inline-link a {
@@ -26,7 +27,6 @@ a:hover, a:visited:hover {
 
 
 #menu .brand {
-  font-family: 'Open Sans', sans-serif;
   font-weight: 800;
   font-size: 1.8em;
   letter-spacing: -0.05em;
@@ -37,10 +37,28 @@ a:hover, a:visited:hover {
 }
 
 .header {
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 300;
+    font-weight: bold;
     text-align: left;
-    color: #403E3F;
+    font-size: 1.8rem;
+    font-style: normal;
+    color: #4a4a4a;
+ }
+
+.subheader {
+    font-weight: normal;
+    text-align: left;
+    font-size: 1.3rem;
+    font-style: normal;
+    color: #4a4a4a;
+ }
+
+.subheader2 {
+    margin-top: 1rem;
+    font-weight: bold;
+    text-align: left;
+    font-size: 1.1rem;
+    font-style: normal;
+    color: #4a4a4a;
  }
 
 .small-print {
@@ -49,7 +67,6 @@ a:hover, a:visited:hover {
 }
 
 .post-meta {
-  font-family: 'Open Sans', sans-serif;
   font-size: 0.7em;
   color: #8c8c8c;
 }
@@ -67,15 +84,12 @@ article > footer {
   float: left;
   text-align: left;
   overflow: hidden;
-  font-family: 'Open Sans', sans-serif;
 }
 
 .prev-next-post .next {
   float: right;
   text-align: right;
   overflow: hidden;
-  font-family: 'Open Sans', sans-serif;
-
 }
 
 .next a, .prev a {
@@ -90,7 +104,6 @@ article > footer {
 }
 
 .small-brand {
-  font-family: 'Open Sans', sans-serif;
   font-weight: 800;
   font-size: 1.6em;
   letter-spacing: -0.05em;
@@ -124,8 +137,8 @@ i {
     height: auto;
 /*    border-color: #d9d9d9;
     border-width: 2px;
-    border-style: solid;*/
-    margin-bottom: 10px;
+    border-style: solid;
+    margin-bottom: 10px;*/
 }
 
 .post-image img {
@@ -139,11 +152,11 @@ figure {
 }
 
 .project-summary a {
-  font-family: 'Open Sans', sans-serif;
-  color: #403E3F;
+  color: #4a4a4a;
+  font-style: italic;
   text-decoration: none;
   display: block;
-  text-align: center;
+  text-align: left;
 }
 
 .post-summary {
@@ -151,7 +164,6 @@ figure {
 }
 
 .post-summary a {
-  font-family: 'Open Sans', sans-serif;
   font-weight: 300;
   color: #403E3F;
   font-size: 1.0em;
@@ -163,7 +175,6 @@ figure {
 }
 
 .post-summary span {
-  font-family: 'Open Sans', sans-serif;
   font-weight: 300;
   color: #d9d9d9;
   font-size: 0.9em;
@@ -187,20 +198,17 @@ figure {
 }
 
 .contact {
-  font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   font-size:1em;
 }
 
 .post-header h1 {
-  font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   font-size:1.6em;
 }
 
 .section-title {
   color: #403E3F;
-  font-family: 'Open Sans', sans-serif;
 }
 
 .playstore-link img {
@@ -224,38 +232,27 @@ Hides the menu at `48em`, but modify this based on your app's needs.
 @media (min-width: 48em) {
 
     #main {
-        margin-right: 200px;
+        margin-right: 3rem;
+        margin-left: 3rem;
         margin-bottom: 100px;
-        padding-left: 100px;
+        /*padding-left: 100px;*/ 
     }
 
     .header {
       margin-top: 50px;
       margin-bottom: 50px;
-      font-size: 1.3em;
+      font-size: 2.0em;
     }
 
     .section-summary-content {
-      justify-content: space-between;
+      justify-content: flex-start;
       width: 100%;
-    }
-
-    #layout {
-        padding-left: 200px; /* left col width "#menu" */
-        left: 0;
-    }
-    #menu {
-        left: 200px;
     }
 
     .menu-link {
         /*position: fixed;
         left: 150px;*/
         display: none;
-    }
-
-    #layout.active {
-        left: 200px;
     }
 
     #small-brand {
@@ -269,35 +266,36 @@ Hides the menu at `48em`, but modify this based on your app's needs.
 
     .section-summary {
       display: flex;
-      margin-top: 80px;
+      margin-top: 40px;
     }
 
     .section-horizontal-rule {
-      margin: 50px 0px;
+      margin: 20px 0px;
     }
 
     .section-title {
       font-weight: 700;
       font-size:0.9em;
-      width: 200px;
+      width: 19rem;
     }
 
     .project-summary {
-      width: 220px;
-      height: 220px;
-      margin-bottom: 20px;
+      width: 19rem;
+      /*height: 19rem;*/
+      vertical-align: top;
+      margin-right: 1rem;
+      margin-bottom: 1rem;
       display: inline-block;
     }
 
     .project-summary:hover {
-      color: #E2231A
+      color: #E2231A 
     }
 
     .project-summary a {
       font-size: 1.0em;
       font-weight: 400;
     }
-
 
     .post-header {
       margin-left: 50px;
@@ -308,7 +306,6 @@ Hides the menu at `48em`, but modify this based on your app's needs.
       margin-left: 50px;
       margin-top: 50px;
       margin-right: 300px;
-      font-family: 'Open Sans', sans-serif;
       font-weight: 400;
       font-size:1em;
     }
@@ -332,7 +329,7 @@ Hides the menu at `48em`, but modify this based on your app's needs.
 
     .header {
       margin: 1em 0px;
-      font-size: 1.2em;
+      font-size: 1.4em;
     }
 
     .section-horizontal-rule {
@@ -369,7 +366,7 @@ Hides the menu at `48em`, but modify this based on your app's needs.
     }
 
     .post-content {
-      font-family: 'Open Sans', sans-serif;
+      font-family: 'PT Serif', serif;
       font-weight: 400;
       font-size:1em;
     }

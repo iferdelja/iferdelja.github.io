@@ -10,7 +10,7 @@
     <atom:link href="http://www.ivanferdelja.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>What I learned from Uber about trust</title>
+      <title>Uber&#39;s lesson to Croatian economy</title>
       <link>http://www.ivanferdelja.com/post/uber-trust/</link>
       <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
       
@@ -51,7 +51,7 @@
     </item>
     
     <item>
-      <title>Making Square REGISTER appealing to nightclub segment</title>
+      <title>Why Square Register wont work for clubs</title>
       <link>http://www.ivanferdelja.com/post/square-nightclubs/</link>
       <pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate>
       
@@ -86,7 +86,7 @@
     </item>
     
     <item>
-      <title>Pieces of plastic have a story to tell</title>
+      <title>Build trust by fixing the small details</title>
       <link>http://www.ivanferdelja.com/post/pieces-of-plastic/</link>
       <pubDate>Sat, 28 Nov 2015 00:00:00 +0000</pubDate>
       
@@ -117,7 +117,7 @@
     </item>
     
     <item>
-      <title>Why you need to care when customers call you</title>
+      <title>Take your customer phone calls seriously</title>
       <link>http://www.ivanferdelja.com/post/customer-care/</link>
       <pubDate>Fri, 17 Apr 2015 00:00:00 +0000</pubDate>
       
@@ -160,11 +160,11 @@
     </item>
     
     <item>
-      <title>Bridge for iOS and Android</title>
-      <link>http://www.ivanferdelja.com/project/bridge/</link>
-      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <title>Liquor Cabinet</title>
+      <link>http://www.ivanferdelja.com/project/liquor/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.ivanferdelja.com/project/bridge/</guid>
+      <guid>http://www.ivanferdelja.com/project/liquor/</guid>
       <description>&lt;p&gt;&lt;a href =&#34;http://www.trybridge.com&#34; target=&#34;_blank&#34;&gt;Bridge &lt;/a&gt;is a need-based search, communication, and networking tool that helps you find and access the right person for whatever you need, leveraging the network effect (“six degrees of separation”) of your friends and colleagues.&lt;/p&gt;
 
 &lt;p&gt;Bridge is also an omnipresent social capital exchange / platform / wallet, keeping track of &amp;ldquo;favors” between people, estimating how close the a person is to everyone in his or her network (phonebook) and establishing virtual currency that represents the &amp;ldquo;social capital&amp;rdquo; of each user.&lt;/p&gt;
@@ -183,7 +183,30 @@
     </item>
     
     <item>
-      <title>AgentCASH Smart POS for Android</title>
+      <title>Bridge for iOS and Android</title>
+      <link>http://www.ivanferdelja.com/archive/bridge/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ivanferdelja.com/archive/bridge/</guid>
+      <description>&lt;p&gt;&lt;a href =&#34;http://www.trybridge.com&#34; target=&#34;_blank&#34;&gt;Bridge &lt;/a&gt;is a need-based search, communication, and networking tool that helps you find and access the right person for whatever you need, leveraging the network effect (“six degrees of separation”) of your friends and colleagues.&lt;/p&gt;
+
+&lt;p&gt;Bridge is also an omnipresent social capital exchange / platform / wallet, keeping track of &amp;ldquo;favors” between people, estimating how close the a person is to everyone in his or her network (phonebook) and establishing virtual currency that represents the &amp;ldquo;social capital&amp;rdquo; of each user.&lt;/p&gt;
+
+&lt;p&gt;App is currently in private beta.&lt;/p&gt;
+
+&lt;p&gt;&lt;a target=&#34;_blank&#34; href=&#39;http://www.trybridge.com&#39;&gt;
+&lt;figure class=&#34;post-image&#34;&gt;
+    
+        &lt;img src=&#34;http://www.ivanferdelja.com/img/bridge.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AgentCASH Smart POS</title>
       <link>http://www.ivanferdelja.com/project/agent-cash/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
       
@@ -215,7 +238,7 @@
     </item>
     
     <item>
-      <title>PatchUp for iOS</title>
+      <title>PatchUp</title>
       <link>http://www.ivanferdelja.com/project/patchup/</link>
       <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
       
@@ -240,7 +263,7 @@
     </item>
     
     <item>
-      <title>Colored Tabs for Android</title>
+      <title>Color tab concept</title>
       <link>http://www.ivanferdelja.com/project/colored-tabs/</link>
       <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
       
