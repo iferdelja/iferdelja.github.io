@@ -10,11 +10,11 @@
     <atom:link href="http://www.ivanferdelja.com/project/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Liquor Cabinet</title>
-      <link>http://www.ivanferdelja.com/project/liquor/</link>
+      <title>Bridge</title>
+      <link>http://www.ivanferdelja.com/project/bridge/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.ivanferdelja.com/project/liquor/</guid>
+      <guid>http://www.ivanferdelja.com/project/bridge/</guid>
       <description>&lt;p&gt;&lt;a href =&#34;http://www.trybridge.com&#34; target=&#34;_blank&#34;&gt;Bridge &lt;/a&gt;is a need-based search, communication, and networking tool that helps you find and access the right person for whatever you need, leveraging the network effect (“six degrees of separation”) of your friends and colleagues.&lt;/p&gt;
 
 &lt;p&gt;Bridge is also an omnipresent social capital exchange / platform / wallet, keeping track of &amp;ldquo;favors” between people, estimating how close the a person is to everyone in his or her network (phonebook) and establishing virtual currency that represents the &amp;ldquo;social capital&amp;rdquo; of each user.&lt;/p&gt;
@@ -33,7 +33,29 @@
     </item>
     
     <item>
-      <title>AgentCASH Smart POS</title>
+      <title>Liquor Cabinet</title>
+      <link>http://www.ivanferdelja.com/project/liquor/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ivanferdelja.com/project/liquor/</guid>
+      <description>&lt;p&gt;&lt;a href =&#34;http://www.theliquorcabinet.com/&#34; target=&#34;_blank&#34;&gt;The Liquor Cabinet &lt;/a&gt;was founded in 2015 by brothers Patrick, Peter, and Sean Janelle to be the authoritative source for everything related to spirits and the art of cocktails.
+&lt;br&gt;&lt;br&gt;The mobile app is an on-the-go guide and spirit shop for the modern drinker, including an exclusive collection of recipes curated and tested by TLC in-house expert, Maxwell Britten, and a detailed bottle database filled with helpful insights about individual bottles of liquor.&lt;/p&gt;
+
+&lt;p&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://itunes.apple.com/us/app/the-liquor-cabinet/id1073493589?mt=8&#34; style=&#34;display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a target=&#34;_blank&#34; href=&#39;http://www.theliquorcabinet.com/&#39;&gt;
+&lt;figure class=&#34;post-image&#34;&gt;
+    
+        &lt;img src=&#34;http://www.ivanferdelja.com/img/liquor_post.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AgentCASH Point Of Sale</title>
       <link>http://www.ivanferdelja.com/project/agent-cash/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
       

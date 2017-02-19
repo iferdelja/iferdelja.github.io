@@ -141,13 +141,8 @@ i {
     margin-bottom: 10px;*/
 }
 
-.post-image img {
-    width: 100%;
-    height: auto;
-}
-
 /* This is done for post images! */
-figure {
+figure { 
   margin: 2em 0px;
 }
 
@@ -255,9 +250,6 @@ Hides the menu at `48em`, but modify this based on your app's needs.
         display: none;
     }
 
-    #small-brand {
-        display: none;
-    }
 
     .projects-content {
       display: flex;
@@ -297,6 +289,11 @@ Hides the menu at `48em`, but modify this based on your app's needs.
       font-weight: 400;
     }
 
+
+    .post-image img {
+        width: 75%; 
+        height: auto;
+    }
     .post-header {
       margin-left: 50px;
       margin-top: 50px;
@@ -357,6 +354,12 @@ Hides the menu at `48em`, but modify this based on your app's needs.
     .project-summary a {
       font-size: 1.4em;
     }    
+
+
+.post-image img {
+    width: 100%; 
+    height: auto;
+}
 
     .post-header {
     }
