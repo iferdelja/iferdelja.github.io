@@ -352,7 +352,7 @@ Hides the menu at `48em`, but modify this based on your app's needs.
         }
 
         .project-summary a {
-          font-size: 1.4em;
+          font-size: 1.2em;
         }    
 
 
@@ -372,7 +372,7 @@ Hides the menu at `48em`, but modify this based on your app's needs.
         .post-content {
           font-family: 'PT Serif', serif;
           font-weight: 400;
-          font-size:1em;
+          font-size:1.2em;
         }
 
       }
