@@ -43,16 +43,7 @@
     font-weight: normal;
     text-align: left;
     font-size: 1.3rem;
-    font-style: normal;
-    color: #4a4a4a;
-  }
-
-  .subheader2 {
-    margin-top: 1rem;
-    font-weight: bold;
-    text-align: left;
-    font-size: 1.1rem;
-    font-style: normal;
+    font-style: italic;
     color: #4a4a4a;
   }
 
@@ -103,7 +94,7 @@
   }
 
 
-  time,.small-brand, a {
+  .small-brand, a {
     font-family: 'PT Sans', sans-serif;
     font-weight: bold;
     font-size: 0.8em;
@@ -148,14 +139,14 @@
   .project-summary a {
     font-family: 'PT Serif', serif;
     color: #4a4a4a;
-    font-style: italic;
+    font-style: normal;
     font-weight: normal;
     text-decoration: none;
     display: block;
     text-align: left;
   }
 
-  .post-summary {
+  .post-summary { 
     margin-bottom: 20px;
   }
 
@@ -204,6 +195,7 @@
     font-size:1.8em;
     color: #4a4a4a;
     font-style: italic;
+    margin: 0;
   }
 
   .section-title {
@@ -324,9 +316,8 @@ Hides the menu at `48em`, but modify this based on your app's needs.
         * Tap the menu to trigger the active state.
         * Make the window large again.
         */
-        #layout.active {
-          position: relative;
-          left: 200px;
+        #layout_post {
+          margin: 1.5em 1.5em;
         }
 
         #main {
@@ -370,8 +361,9 @@ Hides the menu at `48em`, but modify this based on your app's needs.
           height: auto;
         }
 
-        .post-header {
-        }
+      .post-header {
+        text-align: center;
+      }
 
         .post-header h1 {
           font-size: 1.6em;
