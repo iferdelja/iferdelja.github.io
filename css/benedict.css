@@ -42,7 +42,7 @@
   .description2 {
     font-weight: normal;
     text-align: left;
-    font-size: 1.15rem;
+    font-size: 1.3rem;
     font-style: italic;
     color: #4a4a4a;
   }
@@ -50,15 +50,15 @@
 .description3 {
     font-weight: normal;
     text-align: left;
-    font-size: 1rem;
+    font-size: 1.15rem;
     font-style: italic;
     color: #4a4a4a;
   }
 
-.subheader3 {
+.description4 {
     font-weight: normal;
     text-align: left;
-    font-size: 1.3rem;
+    font-size: 1rem;
     font-style: italic;
     color: #4a4a4a;
   }
