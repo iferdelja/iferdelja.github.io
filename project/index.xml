@@ -7,30 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.ivanferdelja.com/project/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>Bridge</title>
-      <link>http://www.ivanferdelja.com/project/bridge/</link>
-      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.ivanferdelja.com/project/bridge/</guid>
-      <description>&lt;p&gt;&lt;a href =&#34;http://www.trybridge.com&#34; target=&#34;_blank&#34;&gt;Bridge &lt;/a&gt;is a need-based search, communication, and networking tool that helps you find and access the right person for whatever you need, leveraging the network effect (“six degrees of separation”) of your friends and colleagues.&lt;/p&gt;
-
-&lt;p&gt;Bridge is also an omnipresent social capital exchange / platform / wallet, keeping track of &amp;ldquo;favors” between people, estimating how close the a person is to everyone in his or her network (phonebook) and establishing virtual currency that represents the &amp;ldquo;social capital&amp;rdquo; of each user.&lt;/p&gt;
-
-&lt;p&gt;App is currently in private beta.&lt;/p&gt;
-
-&lt;p&gt;&lt;a target=&#34;_blank&#34; href=&#39;http://www.trybridge.com&#39;&gt;
-&lt;figure class=&#34;post-image&#34;&gt;
+	<atom:link href="http://www.ivanferdelja.com/project/index.xml" rel="self" type="application/rss+xml" />
     
-        &lt;img src=&#34;http://www.ivanferdelja.com/img/bridge.png&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Liquor Cabinet</title>
@@ -38,52 +17,20 @@
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www.ivanferdelja.com/project/liquor/</guid>
-      <description>&lt;p&gt;&lt;a href =&#34;http://www.theliquorcabinet.com/&#34; target=&#34;_blank&#34;&gt;The Liquor Cabinet &lt;/a&gt;was founded in 2015 by brothers Patrick, Peter, and Sean Janelle to be the authoritative source for everything related to spirits and the art of cocktails.
-&lt;br&gt;&lt;br&gt;The mobile app is an on-the-go guide and spirit shop for the modern drinker, including an exclusive collection of recipes curated and tested by TLC in-house expert, Maxwell Britten, and a detailed bottle database filled with helpful insights about individual bottles of liquor.&lt;/p&gt;
-
-&lt;p&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://itunes.apple.com/us/app/the-liquor-cabinet/id1073493589?mt=8&#34; style=&#34;display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a target=&#34;_blank&#34; href=&#39;http://www.theliquorcabinet.com/&#39;&gt;
-&lt;figure class=&#34;post-image&#34;&gt;
-    
-        &lt;img src=&#34;http://www.ivanferdelja.com/img/liquor_post.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Bridge is a need-based search, communication, and networking tool that helps you find and access the right person for whatever you need, leveraging the network effect (“six degrees of separation”) of your friends and colleagues.
+Bridge is also an omnipresent social capital exchange / platform / wallet, keeping track of &amp;ldquo;favors” between people, estimating how close the a person is to everyone in his or her network (phonebook) and establishing virtual currency that represents the &amp;ldquo;social capital&amp;rdquo; of each user.</description>
     </item>
     
     <item>
-      <title>AgentCASH Point Of Sale</title>
+      <title>AgentCASH Smart POS</title>
       <link>http://www.ivanferdelja.com/project/agent-cash/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
       
       <guid>http://www.ivanferdelja.com/project/agent-cash/</guid>
-      <description>&lt;p&gt;&lt;a href =&#34;http://www.agentcash.com&#34; target=&#34;_blank&#34;&gt;AgentCASH &lt;/a&gt; is a mobile payment system for Android that allows businesses to accept card or cash payments any place, any time.&lt;/p&gt;
-
-&lt;p&gt;App fully supports all requirements of a small or medium business.&lt;/p&gt;
-
-&lt;p&gt;Some of the features:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;add, edit and organise all products or services into a neat, clean and visually informative page system&lt;/li&gt;
-&lt;li&gt;run cash or card payments (via a Bluetooth card reader)&lt;/li&gt;
-&lt;li&gt;print receipts or issue them by e-mail and text messages&lt;/li&gt;
-&lt;li&gt;manage customers and invoices&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a class=&#34;playstore-link&#34; target=&#34;_blank&#34; href=&#39;https://play.google.com/store/apps/details?id=com.agentcash.register&amp;hl=en&amp;utm_source=global_co&amp;utm_medium=prtnr&amp;utm_content=Mar2515&amp;utm_campaign=PartBadge&amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1&#39;&gt;&lt;img alt=&#39;Get it on Google Play&#39; src=&#39;https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png&#39;/&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a target=&#34;_blank&#34; href=&#39;https://play.google.com/store/apps/details?id=com.agentcash.register&amp;hl=en&amp;utm_source=global_co&amp;utm_medium=prtnr&amp;utm_content=Mar2515&amp;utm_campaign=PartBadge&amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1&#39;&gt;
-&lt;figure class=&#34;post-image&#34;&gt;
-    
-        &lt;img src=&#34;http://www.ivanferdelja.com/img/agentcash.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>AgentCASH  is a mobile payment system for Android that allows businesses to accept card or cash payments any place, any time.
+App fully supports all requirements of a small or medium business.
+Some of the features:
+ add, edit and organise all products or services into a neat, clean and visually informative page system run cash or card payments (via a Bluetooth card reader) print receipts or issue them by e-mail and text messages manage customers and invoices</description>
     </item>
     
     <item>
@@ -92,23 +39,11 @@
       <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www.ivanferdelja.com/project/patchup/</guid>
-      <description>&lt;p&gt;PatchUp for iOS is a an app for micro-reporting in the cities, targeting US region starting with Seattle.&lt;/p&gt;
+      <description>PatchUp for iOS is a an app for micro-reporting in the cities, targeting US region starting with Seattle.
+App is scheduled to launch at the Seattle Designing cities convention
+PatchUp platform
 
-&lt;p&gt;App is scheduled to launch at the &lt;a target=&#34;_blank&#34; href=&#34;http://nacto.org/conference/designing-cities-conference-seattle-2016/&#34;&gt;Seattle Designing cities convention&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://patchup.city/&#34;&gt;PatchUp platform&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://geo.itunes.apple.com/hr/app/patchup-mend-your-city!/id1114321245?mt=8&#34; style=&#34;display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-
-
-&lt;figure class=&#34;post-image&#34;&gt;
-    
-        &lt;img src=&#34;http://www.ivanferdelja.com/img/patchup.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-</description>
+ </description>
     </item>
     
     <item>
@@ -117,25 +52,10 @@
       <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www.ivanferdelja.com/project/colored-tabs/</guid>
-      <description>&lt;p&gt;Colored Tabs is a concept Android app to explore aspects of &lt;a href=&#34;https://www.google.com/design/spec/material-design/introduction.html&#34; target=&#34;_blank&#34;&gt;Material design&lt;/a&gt; such as immersion, cards etc.&lt;/p&gt;
-
-&lt;p&gt;Design created by &lt;a class=&#34;inline-link&#34; href=&#34;http://iliketotouchinterfaces.com&#34; target=&#34;_blank&#34;&gt;Vedran Židanik&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Source available on &lt;a class=&#34;inline-link&#34; href=&#34;https://github.com/iferdelja/colored-tabs&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Tech note: Story feed video content is displayed on a TextureView instead of SurfaceView. Considering SurfaceView is rendered in a separate window from the app, artifacts were clearly visible while scrolling in either direction.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&#34;playstore-link&#34; target=&#34;_blank&#34; href=&#39;https://play.google.com/store/apps/details?id=com.ivanferdelja.coloredtabs&amp;hl=en&amp;utm_source=global_co&amp;utm_medium=prtnr&amp;utm_content=Mar2515&amp;utm_campaign=PartBadge&amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1&#39;&gt;&lt;img alt=&#39;Get it on Google Play&#39; src=&#39;https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png&#39;/&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a target=&#34;_blank&#34; href=&#39;https://play.google.com/store/apps/details?id=com.ivanferdelja.coloredtabs&amp;hl=en&amp;utm_source=global_co&amp;utm_medium=prtnr&amp;utm_content=Mar2515&amp;utm_campaign=PartBadge&amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1&#39;&gt;
-&lt;figure class=&#34;post-image&#34;&gt;
-    
-        &lt;img src=&#34;http://www.ivanferdelja.com/img/colored-tabs.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Colored Tabs is a concept Android app to explore aspects of Material design such as immersion, cards etc.
+Design created by Vedran Židanik.
+Source available on GitHub.
+Tech note: Story feed video content is displayed on a TextureView instead of SurfaceView. Considering SurfaceView is rendered in a separate window from the app, artifacts were clearly visible while scrolling in either direction.</description>
     </item>
     
   </channel>

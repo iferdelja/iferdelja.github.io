@@ -1,213 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Ivan Ferdelja is a mobile software engineer</title>
+    <title>Posts on IvanF.</title>
     <link>http://www.ivanferdelja.com/post/</link>
-    <description>Recent content in Posts on Ivan Ferdelja is a mobile software engineer</description>
+    <description>Recent content in Posts on IvanF.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.ivanferdelja.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.ivanferdelja.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>Bridge</title>
-      <link>http://www.ivanferdelja.com/post/bridge/</link>
-      <pubDate>Sun, 15 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.ivanferdelja.com/post/bridge/</guid>
-      <description>&lt;p&gt;Bridge is a need-based search, communication, and networking tool that helps you find and access the right person for whatever you need, leveraging the network effect (“six degrees of separation”) of your friends and colleagues.&lt;/p&gt;
-
-&lt;p&gt;Bridge is also an omnipresent social capital exchange / platform / wallet, keeping track of &amp;ldquo;favors” between people, estimating how close the a person is to everyone in his or her network (phonebook) and establishing virtual currency that represents the &amp;ldquo;social capital&amp;rdquo; of each user.&lt;/p&gt;
-
-&lt;p&gt;App is currently in private beta.&lt;/p&gt;
-
-&lt;p&gt;&lt;a target=&#34;_blank&#34; href=&#39;http://www.trybridge.com&#39;&gt;
-&lt;figure class=&#34;post-image&#34;&gt;
-    
-        &lt;img src=&#34;http://www.ivanferdelja.com/img/bridge_post.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Liquor Cabinet</title>
-      <link>http://www.ivanferdelja.com/post/liquor/</link>
-      <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.ivanferdelja.com/post/liquor/</guid>
-      <description>&lt;p&gt;The Liquor Cabinet was founded in 2015 by brothers Patrick, Peter, and Sean Janelle to be the authoritative source for everything related to spirits and the art of cocktails.
-&lt;br&gt;&lt;br&gt;The mobile app is an on-the-go guide and spirit shop for the modern drinker, including an exclusive collection of recipes curated and tested by TLC in-house expert, Maxwell Britten, and a detailed bottle database filled with helpful insights about individual bottles of liquor.&lt;/p&gt;
-
-&lt;p&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://itunes.apple.com/us/app/the-liquor-cabinet/id1073493589?mt=8&#34; style=&#34;display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a target=&#34;_blank&#34; href=&#39;http://www.theliquorcabinet.com/&#39;&gt;
-&lt;figure class=&#34;post-image&#34;&gt;
-    
-        &lt;img src=&#34;http://www.ivanferdelja.com/img/liquor_post.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AgentCASH Point Of Sale</title>
-      <link>http://www.ivanferdelja.com/post/agent-cash/</link>
-      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.ivanferdelja.com/post/agent-cash/</guid>
-      <description>&lt;p&gt;&lt;a href =&#34;http://www.agentcash.com&#34; target=&#34;_blank&#34;&gt;AgentCASH &lt;/a&gt; is a mobile payment system for Android that allows businesses to accept card or cash payments any place, any time.&lt;/p&gt;
-
-&lt;p&gt;App fully supports all requirements of a small or medium business.&lt;/p&gt;
-
-&lt;p&gt;Some of the features:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;add, edit and organise all products or services into a neat, clean and visually informative page system&lt;/li&gt;
-&lt;li&gt;run cash or card payments (via a Bluetooth card reader)&lt;/li&gt;
-&lt;li&gt;print receipts or issue them by e-mail and text messages&lt;/li&gt;
-&lt;li&gt;manage customers and invoices&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a class=&#34;playstore-link&#34; target=&#34;_blank&#34; href=&#39;https://play.google.com/store/apps/details?id=com.agentcash.register&amp;hl=en&amp;utm_source=global_co&amp;utm_medium=prtnr&amp;utm_content=Mar2515&amp;utm_campaign=PartBadge&amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1&#39;&gt;&lt;img alt=&#39;Get it on Google Play&#39; src=&#39;https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png&#39;/&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a target=&#34;_blank&#34; href=&#39;https://play.google.com/store/apps/details?id=com.agentcash.register&amp;hl=en&amp;utm_source=global_co&amp;utm_medium=prtnr&amp;utm_content=Mar2515&amp;utm_campaign=PartBadge&amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1&#39;&gt;
-&lt;figure class=&#34;post-image&#34;&gt;
-    
-        &lt;img src=&#34;http://www.ivanferdelja.com/img/agentcash.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>PatchUp</title>
-      <link>http://www.ivanferdelja.com/post/patchup/</link>
-      <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.ivanferdelja.com/post/patchup/</guid>
-      <description>&lt;p&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://patchup.city/&#34;&gt;PatchUp &lt;/a&gt; is a an app for micro-reporting in the cities, targeting US region starting with Seattle. App is scheduled to launch at the &lt;a target=&#34;_blank&#34; href=&#34;http://nacto.org/conference/designing-cities-conference-seattle-2016/&#34;&gt;Seattle Designing cities convention&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://geo.itunes.apple.com/hr/app/patchup-mend-your-city!/id1114321245?mt=8&#34; style=&#34;display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-
-
-&lt;figure class=&#34;post-image&#34;&gt;
-    
-        &lt;img src=&#34;http://www.ivanferdelja.com/img/patchup.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Color tab concept</title>
-      <link>http://www.ivanferdelja.com/post/colored-tabs/</link>
-      <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.ivanferdelja.com/post/colored-tabs/</guid>
-      <description>&lt;p&gt;Colored Tabs is a concept Android app to explore aspects of &lt;a href=&#34;https://www.google.com/design/spec/material-design/introduction.html&#34; target=&#34;_blank&#34;&gt;Material design&lt;/a&gt; such as immersion, cards etc.&lt;/p&gt;
-
-&lt;p&gt;Design created by &lt;a class=&#34;inline-link&#34; href=&#34;http://iliketotouchinterfaces.com&#34; target=&#34;_blank&#34;&gt;Vedran Židanik&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Source available on &lt;a class=&#34;inline-link&#34; href=&#34;https://github.com/iferdelja/colored-tabs&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Tech note: Story feed video content is displayed on a TextureView instead of SurfaceView. Considering SurfaceView is rendered in a separate window from the app, artifacts were clearly visible while scrolling in either direction.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&#34;playstore-link&#34; target=&#34;_blank&#34; href=&#39;https://play.google.com/store/apps/details?id=com.ivanferdelja.coloredtabs&amp;hl=en&amp;utm_source=global_co&amp;utm_medium=prtnr&amp;utm_content=Mar2515&amp;utm_campaign=PartBadge&amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1&#39;&gt;&lt;img alt=&#39;Get it on Google Play&#39; src=&#39;https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png&#39;/&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a target=&#34;_blank&#34; href=&#39;https://play.google.com/store/apps/details?id=com.ivanferdelja.coloredtabs&amp;hl=en&amp;utm_source=global_co&amp;utm_medium=prtnr&amp;utm_content=Mar2515&amp;utm_campaign=PartBadge&amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1&#39;&gt;
-&lt;figure class=&#34;post-image&#34;&gt;
-    
-        &lt;img src=&#34;http://www.ivanferdelja.com/img/colored-tabs.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>What Square Register needs to work for clubs</title>
+      <title>Square Register might have a UX problem in night clubs</title>
       <link>http://www.ivanferdelja.com/post/square-nightclubs/</link>
       <pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www.ivanferdelja.com/post/square-nightclubs/</guid>
-      <description>&lt;p&gt;At 2AM on a cold Saturday night I was standing on the upper level of a nightclub, observing the party below. The dance floor has gone wild and the bar is crowded. Behind the bar, couple of waiters were running wild trying to keep up with the orders. And they were doing a damn good job. I wondered how long it would take for me to get this good. The POS software they used was the most popular POS in Adriatic nightclubs and restaurants. Its damn ugly but Its doing an incredible job, spitting out receipts at lightning speed.&lt;/p&gt;
-
-&lt;p&gt;Back then I was part of a team building an entirely new POS app. The reason we came to this club was to learn firsthand how exactly waiters interacted with their POS and what kind of real-life demands must this kind of software meet.&lt;/p&gt;
-
-&lt;p&gt;Coming from the mobile app industry the vision in our minds was always one of an interface that is simple and functional yet visually appealing. Our all time role model was therefore Square Register, one of the best apps ever built. Square&amp;rsquo;s app was literally our holy grail.&lt;/p&gt;
-
-
-&lt;figure class=&#34;post-image&#34;&gt;
-    
-        &lt;img src=&#34;http://www.ivanferdelja.com/img/club-bar.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;However, looking at the waiters below, I reluctantly had to admit that these guys would probably hate Square. Reason for that is that, unlike the software they were using, Square was not tailor made for an Adriatic nightclub and they would have a hard time using it.&lt;/p&gt;
-
-&lt;p&gt;While observing the waiters, one behaviour in particular came immediately to my attention. Two waiters were using the POS app on the same device. Thus they kept signing in and out of the app. Whoever built the app was well aware of this requirement, so app made it possible for the waiters to switch extremely quickly. Square&amp;rsquo;s app did not offer this switching feature, and it would have made their job impossible to do.&lt;/p&gt;
-
-&lt;p&gt;Back then Square was limited in terms of user management so I decided to imagine what a employee switching feature would look like in the Square Register app. I added a bit of my own design in Sketch on top of Square screenshots and put together a Framer prototype. Feel free to try it out below.&lt;/p&gt;
-
-&lt;p&gt;Suffice it to say, solid reasons existed why Square and its nightclub competitor were built the way they were and both are still excellent apps in their segment.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://share.framerjs.com/e04yqqnkftsd/&#34; target=&#34;_blank&#34;&gt;Check out the Framer demo&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Disclaimer: While researching for this article I noticed that in the mean time Square enhanced its employee management. Thus employees can use their &amp;ldquo;device codes&amp;rdquo; to switch on the same device. Good job Square!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Uber&#39;s lesson to Croatian economy</title>
-      <link>http://www.ivanferdelja.com/post/uber-trust/</link>
-      <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.ivanferdelja.com/post/uber-trust/</guid>
-      <description>&lt;p&gt;Ever since Uber arrived in Zagreb few months ago, I have been using it on a regular basis and made about 50 trips thus far.&lt;/p&gt;
-
-&lt;p&gt;Three things excite me about Uber:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Mobile app they provide is just awesome. Few months ago I wrote a post about a terrible experience I had with an app provided by Ubers main competitor in Zagreb. Suffice it to say that Uber app is a couple of centuries ahead.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Drivers working for Uber seem to belong to a different population compared to competitor drivers or even compared to most of the general population in Zagreb. These guys understand the benefits Uber brings to a reeking market hungry for some fresh ideas and new faces. They understand the simple economics Uber set up. If they suck, their customers will rate them poorly and they will die.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;And the thing I like most, no more damn cash. Hallelujah.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;figure class=&#34;post-image&#34;&gt;
-    
-        &lt;img src=&#34;http://www.ivanferdelja.com/img/uber.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;I use Uber most often on one specific 3.5 mile route. On my latest trip via that route, the driver decided to take a couple of unnecessary turns. This added an extra mile and an extra one euro to my invoice. I rated the guy &lt;sup&gt;4&lt;/sup&gt;&amp;frasl;&lt;sub&gt;5&lt;/sub&gt; and attached a short comment on how they should really try to take the shortest route. No hard feelings, just trying to be a good customer.&lt;/p&gt;
-
-&lt;p&gt;Following day, I actually got an email from the local customer service representative in Zagreb, apologising for the mishap. A pretty standard response, but a nice gesture nonetheless.&lt;/p&gt;
-
-&lt;p&gt;What really amazed me is that he went a step further. He decided to act on his words and prove he means what he said. He must have looked through my trips and somehow figured out the anomalous extra mile I was charged with. He then cancelled my original invoice and charged a new one minus the one euro! Wow!!&lt;/p&gt;
-
-&lt;p&gt;For me, being a resident of Zagreb and feeling strongly about the nature of a healthy customer relationship, this was like an outer space experience.&lt;/p&gt;
-
-&lt;p&gt;This time, the driver lost a euro but Uber found a happy customer. More importantly, they proved to understand the fundamental way trust is formed between people. Be it a customer using a service or people working together or just two friends, basic rule is always the same.&lt;/p&gt;
-
-&lt;p&gt;Nice words dry out quickly. You acquire trust only by acting on them.&lt;/p&gt;
-</description>
+      <description>At 2AM on a cold Saturday night I was standing on the upper level of a nightclub, observing the party below. The dance floor has gone wild and the bar is crowded. Behind the bar, couple of waiters were running wild trying to keep up with the orders. And they were doing a damn good job. I wondered how long it would take for me to get this good. The POS software they used was the most popular POS in Adriatic nightclubs and restaurants.</description>
     </item>
     
     <item>
@@ -216,29 +26,10 @@
       <pubDate>Sat, 28 Nov 2015 00:00:00 +0000</pubDate>
       
       <guid>http://www.ivanferdelja.com/post/pieces-of-plastic/</guid>
-      <description>&lt;p&gt;Having worked with card payment solutions, I formed a habit of noticing the POS hardware when waiting in line at the register.&lt;/p&gt;
-
-&lt;p&gt;Konzum (largest supermarket chain in Croatia) and IKEA Zagreb both use the same POS terminal made by the French company Ingenico. Terminal is also supplied with an optional PIN privacy shield to provide the customer with additional confidentiality.&lt;/p&gt;
-
-&lt;p&gt;Unlike Konzum, IKEA decided to buy the optional shield.&lt;/p&gt;
-
-
-&lt;figure class=&#34;post-image&#34;&gt;
-    
-        &lt;img src=&#34;http://www.ivanferdelja.com/img/pos-terminal.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;This might not seem like a big deal, but card frauds don&amp;rsquo;t just happen to people you read about, they are real. Retailers have the job to ensure customers feel safe when reaching for their wallet.  Each time I enter my PIN at the Konzum supermarket I&amp;rsquo;m amazed at the utter lack of desire to help me keep my PIN safe. Which translates into a lack of desire to provide a pleasant store experience.&lt;/p&gt;
-
-&lt;p&gt;Someone at IKEA must have thought about this at some point and decided to align it with values they represent. When you walk through their store they are dedicated at making you feel at home. An essential thing home provides is feeling of safety. Simple as that.&lt;/p&gt;
-
-&lt;p&gt;So it leaves me wondering, did the Konzum team simply fail to consider this or did they decide the cost outweighed the love for their customers?&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s funny how an entire set of values (or lack thereof) boils down to a tiny plastic dongle.&lt;/p&gt;
-</description>
+      <description>Having worked with card payment solutions, I formed a habit of noticing the POS hardware when waiting in line at the register.
+Konzum (largest supermarket chain in Croatia) and IKEA Zagreb both use the same POS terminal made by the French company Ingenico. Terminal is also supplied with an optional PIN privacy shield to provide the customer with additional confidentiality.
+Unlike Konzum, IKEA decided to buy the optional shield.
+ This might not seem like a big deal, but card frauds don&amp;rsquo;t just happen to people you read about, they are real.</description>
     </item>
     
     <item>
@@ -247,41 +38,7 @@
       <pubDate>Fri, 17 Apr 2015 00:00:00 +0000</pubDate>
       
       <guid>http://www.ivanferdelja.com/post/customer-care/</guid>
-      <description>&lt;p&gt;At quarter past eleven on a Wednesday night we learned that one of our customers had run into a problem. We decided not to wait solving it. Few minutes later, as I was leaving my apartment, I decided to use a popular app to get myself a taxi. As I walked down the staircase from the top floor of my building I got the notification - a car was on its way. The street outside was already quiet of the traffic. I stood at the corner and waited for the car.&lt;/p&gt;
-
-&lt;p&gt;Three minutes later, the white Peugeot arrived. As we were driving away, my phone rang. &amp;ldquo;Good evening, this is taxi no. &amp;hellip; ,  did you order a taxi?&amp;rdquo; - a male voice asked. The guy calling was apparently a driver of another taxi who got my request. &amp;ldquo;Yes but a car already picked me up. There must have been a mixup.&amp;rdquo;, I answered with a bit of confusion. Couple of minutes later, as we arrived to my office address, my phone rang again - another taxi driver, same question.&lt;/p&gt;
-
-&lt;p&gt;Having switched between WiFi and mobile network while placing the taxi order earlier, I realised the app must have failed to handle poor network conditions very well. Being on a problem solving trip myself, I got all worked up so I decided to give them a call.&lt;/p&gt;
-
-&lt;p&gt;On completing what felt like a short and pleasant conversation with the support guy I learned they had already experienced this very same problem a couple of times before. It also left me thinking how they seemed to really understand what I was saying and were serious about doing something about it.&lt;/p&gt;
-
-&lt;p&gt;Wrong.&lt;/p&gt;
-
-&lt;p&gt;As it turned out they did not really care what happens.&lt;/p&gt;
-
-&lt;p&gt;Few weeks later I used the app again. Same problem happened. This time with a twist. Two taxis showed up at the same moment, leaving it upon me to resolve the dispute with the agitated drivers.&lt;/p&gt;
-
-
-&lt;figure class=&#34;post-image&#34;&gt;
-    
-        &lt;img src=&#34;http://www.ivanferdelja.com/img/mono-phone.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;Problems are inevitable and they will happen. But regardless of the product or a service being delivered, there is always a choice to care or not to care about the people using it.&lt;/p&gt;
-
-&lt;p&gt;Working at a payment service provider it is clear to us that every bump in the road will interfere with a key part of our customers business. Dealing with a sensitive topic such as money means that effects of potential issues scale up tremendously.&lt;/p&gt;
-
-&lt;p&gt;When a customer reaches out to you for help, they decided to share their story about your product. So listen. The first thing occupying their mind is how their own life, business and customers will be affected. They are not calling to play the blame game and point fingers as soon as you pick up the phone. They just want to keep your relationship going. So use this opportunity wisely.&lt;/p&gt;
-
-&lt;p&gt;What they really want is for you to acknowledge their situation and relieve them of their worries. When you respond fast and take over, their problems immediately become your problems and this makes them feel safe. Customers that feel safe are the ones that ultimately stick.&lt;/p&gt;
-
-&lt;p&gt;Going back to the office that night made sure we solved the problem quickly and efficiently within an hour. We gave a call to the customer the following morning and he was already back on track.&lt;/p&gt;
-
-&lt;p&gt;Demonstrating a lack of care will ultimately result in loss of trust and one customer less. Being on the daily front line of our own product, I cannot imagine a goal more important then making sure we continue to care.&lt;/p&gt;
-</description>
+      <description>At quarter past eleven on a Wednesday night we learned that one of our customers had run into a problem. We decided not to wait solving it. Few minutes later, as I was leaving my apartment, I decided to use a popular app to get myself a taxi. As I walked down the staircase from the top floor of my building I got the notification - a car was on its way.</description>
     </item>
     
   </channel>
