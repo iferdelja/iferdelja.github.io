@@ -54,20 +54,14 @@
   </url>
   
   <url>
-    <loc>http://www.ivanferdelja.com/tags/customer-care-pos/</loc>
-    <lastmod>2015-11-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.ivanferdelja.com/categories/customer-care-pos/</loc>
     <lastmod>2015-11-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.ivanferdelja.com/tags/customer-support/</loc>
-    <lastmod>2015-04-17T00:00:00+00:00</lastmod>
+    <loc>http://www.ivanferdelja.com/tags/customer-care-pos/</loc>
+    <lastmod>2015-11-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -78,13 +72,19 @@
   </url>
   
   <url>
-    <loc>http://www.ivanferdelja.com/tags/framer-square-pos/</loc>
-    <lastmod>2016-01-05T00:00:00+00:00</lastmod>
+    <loc>http://www.ivanferdelja.com/tags/customer-support/</loc>
+    <lastmod>2015-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.ivanferdelja.com/categories/framer-square-pos/</loc>
+    <lastmod>2016-01-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ivanferdelja.com/tags/framer-square-pos/</loc>
     <lastmod>2016-01-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
