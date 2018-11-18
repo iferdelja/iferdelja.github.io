@@ -6,13 +6,23 @@
     <description>Recent content in Posts on IvanF.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.ivanferdelja.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Square Register might have a UX problem in night clubs</title>
+      <title>Retrofit internals</title>
+      <link>http://www.ivanferdelja.com/post/retrofit-internals/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ivanferdelja.com/post/retrofit-internals/</guid>
+      <description>The great Retrofit library by Square has by now become an industry standard. Here is little scratch beneath the surface to understand some of its design decisions.
+Retrofit internals diagram</description>
+    </item>
+    
+    <item>
+      <title>I love Square but night clubs might not</title>
       <link>http://www.ivanferdelja.com/post/square-nightclubs/</link>
       <pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate>
       
@@ -21,7 +31,7 @@
     </item>
     
     <item>
-      <title>Build trust by fixing the small details</title>
+      <title>Trust is in the details</title>
       <link>http://www.ivanferdelja.com/post/pieces-of-plastic/</link>
       <pubDate>Sat, 28 Nov 2015 00:00:00 +0000</pubDate>
       
@@ -33,7 +43,7 @@ Unlike Konzum, IKEA decided to buy the optional shield.
     </item>
     
     <item>
-      <title>Take your customer phone calls seriously</title>
+      <title>The time I called and they didn&#39;t care</title>
       <link>http://www.ivanferdelja.com/post/customer-care/</link>
       <pubDate>Fri, 17 Apr 2015 00:00:00 +0000</pubDate>
       

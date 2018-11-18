@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Retrofit Square on IvanF.</title>
+    <link>http://www.ivanferdelja.com/categories/retrofit-square/</link>
+    <description>Recent content in Retrofit Square on IvanF.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.ivanferdelja.com/categories/retrofit-square/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Retrofit internals</title>
+      <link>http://www.ivanferdelja.com/post/retrofit-internals/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ivanferdelja.com/post/retrofit-internals/</guid>
+      <description>The great Retrofit library by Square has by now become an industry standard. Here is little scratch beneath the surface to understand some of its design decisions.
+Retrofit internals diagram</description>
+    </item>
+    
+  </channel>
+</rss>

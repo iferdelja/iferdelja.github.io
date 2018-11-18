@@ -28,6 +28,11 @@
   </url>
   
   <url>
+    <loc>http://www.ivanferdelja.com/post/retrofit-internals/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.ivanferdelja.com/post/square-nightclubs/</loc>
     <lastmod>2016-01-05T00:00:00+00:00</lastmod>
   </url>
@@ -54,20 +59,14 @@
   </url>
   
   <url>
-    <loc>http://www.ivanferdelja.com/categories/customer-care-pos/</loc>
-    <lastmod>2015-11-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.ivanferdelja.com/tags/customer-care-pos/</loc>
     <lastmod>2015-11-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.ivanferdelja.com/categories/customer-support/</loc>
-    <lastmod>2015-04-17T00:00:00+00:00</lastmod>
+    <loc>http://www.ivanferdelja.com/categories/customer-care-pos/</loc>
+    <lastmod>2015-11-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -78,13 +77,19 @@
   </url>
   
   <url>
-    <loc>http://www.ivanferdelja.com/categories/framer-square-pos/</loc>
-    <lastmod>2016-01-05T00:00:00+00:00</lastmod>
+    <loc>http://www.ivanferdelja.com/categories/customer-support/</loc>
+    <lastmod>2015-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.ivanferdelja.com/tags/framer-square-pos/</loc>
+    <lastmod>2016-01-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ivanferdelja.com/categories/framer-square-pos/</loc>
     <lastmod>2016-01-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -97,13 +102,25 @@
   
   <url>
     <loc>http://www.ivanferdelja.com/post/</loc>
-    <lastmod>2016-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.ivanferdelja.com/project/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ivanferdelja.com/tags/retrofit-square/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.ivanferdelja.com/categories/retrofit-square/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
