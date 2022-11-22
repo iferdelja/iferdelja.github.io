@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Going Level Up With a Fintech Startup</title>
-    <link>http://levelupfintech.com/tags/</link>
-    <description>Recent content in Tags on Going Level Up With a Fintech Startup</description>
+    <title>Posts on Going Level Up With a Fintech Startup</title>
+    <link>http://levelupfintech.com/posts/</link>
+    <description>Recent content in Posts on Going Level Up With a Fintech Startup</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 22 Nov 2022 13:02:50 +0100</lastBuildDate>
     
-	<atom:link href="http://levelupfintech.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://levelupfintech.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     

@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://levelupfintech.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Going Level Up With a Fintech Startup'
 theme = 'etch'
