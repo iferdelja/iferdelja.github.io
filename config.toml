@@ -1,4 +1,9 @@
-baseURL = 'http://levelupfintech.com/'
+baseURL = 'http://resilientfintech.com/'
 languageCode = 'en-us'
-title = 'Taking Your Fintech To The Next Level'
+title = 'Resilient fintech'
 theme = 'etch'
+
+[params]
+  description = "Living and thriving at intersection of product, finance and tech."
+
+
