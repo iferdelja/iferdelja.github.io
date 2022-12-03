@@ -1,0 +1,3 @@
+[submodule "themes/hugo-etch"]
+	path = themes/hugo-etch
+	url = https://github.com/iferdelja/hugo-etch.git
