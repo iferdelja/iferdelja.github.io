@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Resilient fintech'
 theme = 'hugo-etch'
 
+enableRobotsTXT = true
+canonifyURLs = true
+
 [params]
   description = "Living and thriving at intersection of product, finance and tech."
 
