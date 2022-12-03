@@ -15,7 +15,7 @@ function generateUnique() {
 
 function appendTobody(elementType, text) {
 	const element = document.createElement(elementType)
-	element.textContent = text
+	element.textContent = JSON.stringify(JSON.parse(text),null,2);
 	document.body.appendChild(element)
 }
 

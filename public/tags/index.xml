@@ -1,25 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Going Level Up With a Fintech Startup</title>
-    <link>http://levelupfintech.com/tags/</link>
-    <description>Recent content in Tags on Going Level Up With a Fintech Startup</description>
+    <title>Tags on Resilient fintech</title>
+    <link>http://resilientfintech.com/tags/</link>
+    <description>Recent content in Tags on Resilient fintech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://levelupfintech.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://resilientfintech.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
     <item>
-      <title>First Post</title>
-      <link>http://levelupfintech.com/posts/my-first-post/</link>
-      <pubDate>Tue, 22 Nov 2022 13:02:50 +0100</pubDate>
+      <title>Cost-effective acquiring with Cloudflare Workers</title>
+      <link>http://resilientfintech.com/posts/cloudflare-cost/</link>
+      <pubDate>Thu, 10 Nov 2022 13:02:50 +0100</pubDate>
       
-      <guid>http://levelupfintech.com/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
-&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
+      <guid>http://resilientfintech.com/posts/cloudflare-cost/</guid>
+      <description>&lt;p&gt;Building a new card acquirer means making some crucial decisions, namely which platform to build on and how to process payments towards card schemes.&lt;/p&gt;
+&lt;p&gt;In a new acquirer, engineering efforts should without question be invested in adding value for merchants and PSPs, instead of coding Visa protocol messages.&lt;/p&gt;
+&lt;p&gt;For processing payments, the right choice is rely on a dedicated payment processor (such as
+
+&lt;a href=&#34;https://www.silverflow.co&#34; target=&#34;_blank&#34;&gt;Silverflow&lt;/a&gt;) - a partner that is fully dedicated on scheme protocols with a business model based on number of transactions and not the monetary volume.&lt;/p&gt;
+&lt;h4 id=&#34;unit-economics-of-anacquirer&#34;&gt;Unit economics of an acquirer&lt;/h4&gt;
+
+&lt;p&gt;
+&lt;p&gt;With a IC++ pricing model acquiring revenue is always a direct % of the payment amount - it is unaffected by interchange or scheme fees which are passed on to the merchant.
+
+&lt;p&gt;
+Compared to a blended pricing model, IC++ makes it much easier to project the estimated earnings on the monthly or yearly volume the merchant is expecting.&lt;/p&gt;
+&lt;p&gt;Simplified formula % of tx amount minus card processor costs minus platform costs.&lt;/p&gt;
+&lt;h4 id=&#34;cloudflare-workers-as-the-right-platform-choice&#34;&gt;Cloudflare Workers as the right platform choice&lt;/h4&gt;
+
+
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Reviewing my invoices, my experiment with workers and R2 turned out to be a smashing success:&lt;br&gt;&lt;br&gt;💰 Paid Cloudflare $5 for workers, $4.35 for R2 (~300GB)&lt;br&gt;🕺 Cut my AWS bill by $507 &lt;a href=&#34;https://t.co/zLsHEQh7FH&#34;&gt;pic.twitter.com/zLsHEQh7FH&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jan Klimo (@janklimo) &lt;a href=&#34;https://twitter.com/janklimo/status/1590632909182210048?ref_src=twsrc%5Etfw&#34;&gt;November 10, 2022&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
 </description>
     </item>
     

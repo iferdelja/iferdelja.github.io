@@ -1,7 +1,7 @@
 baseURL = 'http://resilientfintech.com/'
 languageCode = 'en-us'
 title = 'Resilient fintech'
-theme = 'etch'
+theme = 'hugo-etch'
 
 [params]
   description = "Living and thriving at intersection of product, finance and tech."
