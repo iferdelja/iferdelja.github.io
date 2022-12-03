@@ -25,11 +25,13 @@
 &lt;h4 id=&#34;unit-economics-of-anacquirer&#34;&gt;Unit economics of an acquirer&lt;/h4&gt;
 
 &lt;p&gt;
-&lt;p&gt;With a IC++ pricing model acquiring revenue is always a direct % of the payment amount - it is unaffected by interchange or scheme fees which are passed on to the merchant.
+&lt;p&gt;With a IC++ merchant pricing model acquiring revenue is always a direct % of the payment amount - it is unaffected by interchange or scheme fees which are passed on to the merchant.
 
 &lt;p&gt;
 Compared to a blended pricing model, IC++ makes it much easier to project the estimated earnings on the monthly or yearly volume the merchant is expecting.&lt;/p&gt;
-&lt;p&gt;Simplified formula % of tx amount minus card processor costs minus platform costs.&lt;/p&gt;
+&lt;p&gt;But regardless of the pricing, goal is to keep the platform costs as lower per tx as possible.
+Cloudflare Workers 
+&lt;a href=&#34;https://developers.cloudflare.com/workers/platform/pricing/&#34; target=&#34;_blank&#34;&gt;pricing&lt;/a&gt;) in that respect beats GCP or AWS&lt;/p&gt;
 &lt;h4 id=&#34;cloudflare-workers-as-the-right-platform-choice&#34;&gt;Cloudflare Workers as the right platform choice&lt;/h4&gt;
 
 

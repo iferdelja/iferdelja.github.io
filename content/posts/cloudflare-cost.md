@@ -1,5 +1,5 @@
 ---
-title: "Cost-effective acquiring with Cloudflare Workers"
+title: "Cost-effective card acquiring with Cloudflare Workers"
 date: 2022-11-10T13:02:50+01:00
 draft: false
 ---
@@ -14,14 +14,16 @@ For processing payments, the right choice is rely on a dedicated payment process
 #### Unit economics of an acquirer
 {{< rawhtml >}}<p>{{</rawhtml>}}
 
-With a IC++ pricing model acquiring revenue is always a direct % of the payment amount - it is unaffected by interchange or scheme fees which are passed on to the merchant. 
+With a IC++ merchant pricing model acquiring revenue is always a direct % of the payment amount - it is unaffected by interchange or scheme fees which are passed on to the merchant. 
 {{< rawhtml >}}<p>{{</rawhtml>}}
 Compared to a blended pricing model, IC++ makes it much easier to project the estimated earnings on the monthly or yearly volume the merchant is expecting.
 
-Simplified formula % of tx amount minus card processor costs minus platform costs.
+But regardless of the pricing, goal is to keep the platform costs as lower per tx as possible.
+Cloudflare Workers {{< rawhtml >}}<a href="https://developers.cloudflare.com/workers/platform/pricing/" target="_blank">pricing</a>{{< /rawhtml >}} in that respect beats GCP or AWS.
 
 
- #### Cloudflare Workers as the right platform choice
+{{< rawhtml >}}<br><br>{{< rawhtml >}}
+
 
 {{< rawhtml >}}
 
