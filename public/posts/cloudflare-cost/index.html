@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="http://resilientfintech.com/css/style.min.css">
 
     <link rel="canonical" href="http://resilientfintech.com/posts/cloudflare-cost/" />
-    <title>Cost-effective acquiring with Cloudflare Workers</title>
+    <title>Cost-effective card acquiring with Cloudflare Workers</title>
 </head>
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-QF79K175MQ"></script>
@@ -22,6 +22,9 @@
 </script>
 <body><header id="banner">
     <h2><a href="http://resilientfintech.com/">Resilient fintech</a></h2>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/ivanferdelja/" target="_blank"><img src="http://resilientfintech.com/linkedin.png" alt="HTML tutorial" style="width:25px"></a>
+    <br>Living and thriving at intersection of product, finance and tech.<br>
     <nav>
         <ul>
             
@@ -36,9 +39,9 @@
              "@id": "http:\/\/resilientfintech.com\/"
         },
         "articleSection" : "posts",
-        "name" : "Cost-effective acquiring with Cloudflare Workers",
-        "headline" : "Cost-effective acquiring with Cloudflare Workers",
-        "description" : "Building a new card acquirer means making some crucial decisions, namely which platform to build on and how to process payments towards card schemes.\nIn a new acquirer, engineering efforts should without question be invested in adding value for merchants and PSPs, instead of coding Visa protocol messages.\nFor processing payments, the right choice is rely on a dedicated payment processor (such as Silverflow) - a partner that is fully dedicated on scheme protocols with a business model based on number of transactions and not the monetary volume.",
+        "name" : "Cost-effective card acquiring with Cloudflare Workers",
+        "headline" : "Cost-effective card acquiring with Cloudflare Workers",
+        "description" : "Building a new card acquirer means making some crucial decisions, namely which platform to build on and how to process payments towards card schemes.\nIn a new acquirer, engineering efforts should without question be invested in adding value for merchants and PSPs, instead of coding Visa protocol messages.\nFor processing payments, the right choice is rely on a dedicated payment processor (such as Silverflow ) - a partner that is fully dedicated on scheme protocols with a business model based on number of transactions and not the monetary volume.",
         "inLanguage" : "en-US",
         "author" : "",
         "creator" : "",
@@ -49,7 +52,7 @@
         "datePublished": "2022-11-10 13:02:50 \u002b0100 CET",
         "dateModified" : "2022-11-10 13:02:50 \u002b0100 CET",
         "url" : "http:\/\/resilientfintech.com\/posts\/cloudflare-cost\/",
-        "wordCount" : "228",
+        "wordCount" : "222",
         "keywords" : [ "Blog" ]
     }
     </script>
@@ -58,7 +61,7 @@
 <main id="content">
 <article>
     <header id="post-header">
-        <h1>Cost-effective acquiring with Cloudflare Workers</h1>
+        <h1>Cost-effective card acquiring with Cloudflare Workers</h1>
         <div>
                 <time>November 10, 2022</time>
             </div>
@@ -66,22 +69,40 @@
 <p>In a new acquirer, engineering efforts should without question be invested in adding value for merchants and PSPs, instead of coding Visa protocol messages.</p>
 <p>For processing payments, the right choice is rely on a dedicated payment processor (such as
 
-<a href="https://www.silverflow.co" target="_blank">Silverflow</a>) - a partner that is fully dedicated on scheme protocols with a business model based on number of transactions and not the monetary volume.</p>
+<a href="https://www.silverflow.co" target="_blank">Silverflow</a>
+
+) - a partner that is fully dedicated on scheme protocols with a business model based on number of transactions and not the monetary volume.</p>
 <h4 id="unit-economics-of-anacquirer">Unit economics of an acquirer</h4>
 
 <p>
+
+
 <p>With a IC++ merchant pricing model acquiring revenue is always a direct % of the payment amount - it is unaffected by interchange or scheme fees which are passed on to the merchant.
 
 <p>
+
+
 Compared to a blended pricing model, IC++ makes it much easier to project the estimated earnings on the monthly or yearly volume the merchant is expecting.</p>
 <p>But regardless of the pricing, goal is to keep the platform costs as lower per tx as possible.
 Cloudflare Workers 
-<a href="https://developers.cloudflare.com/workers/platform/pricing/" target="_blank">pricing</a>) in that respect beats GCP or AWS</p>
-<h4 id="cloudflare-workers-as-the-right-platform-choice">Cloudflare Workers as the right platform choice</h4>
+<a href="https://developers.cloudflare.com/workers/platform/pricing/" target="_blank">pricing</a>
+
+ in that respect beats GCP or AWS.</p>
+
+<br><br>
+
+
+
 
 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Reviewing my invoices, my experiment with workers and R2 turned out to be a smashing success:<br><br>💰 Paid Cloudflare $5 for workers, $4.35 for R2 (~300GB)<br>🕺 Cut my AWS bill by $507 <a href="https://t.co/zLsHEQh7FH">pic.twitter.com/zLsHEQh7FH</a></p>&mdash; Jan Klimo (@janklimo) <a href="https://twitter.com/janklimo/status/1590632909182210048?ref_src=twsrc%5Etfw">November 10, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+
+
+
 
 
 </article>

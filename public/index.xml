@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>Cost-effective acquiring with Cloudflare Workers</title>
+      <title>Cost-effective card acquiring with Cloudflare Workers</title>
       <link>http://resilientfintech.com/posts/cloudflare-cost/</link>
       <pubDate>Thu, 10 Nov 2022 13:02:50 +0100</pubDate>
       
@@ -22,22 +22,40 @@
 &lt;p&gt;In a new acquirer, engineering efforts should without question be invested in adding value for merchants and PSPs, instead of coding Visa protocol messages.&lt;/p&gt;
 &lt;p&gt;For processing payments, the right choice is rely on a dedicated payment processor (such as
 
-&lt;a href=&#34;https://www.silverflow.co&#34; target=&#34;_blank&#34;&gt;Silverflow&lt;/a&gt;) - a partner that is fully dedicated on scheme protocols with a business model based on number of transactions and not the monetary volume.&lt;/p&gt;
+&lt;a href=&#34;https://www.silverflow.co&#34; target=&#34;_blank&#34;&gt;Silverflow&lt;/a&gt;
+
+) - a partner that is fully dedicated on scheme protocols with a business model based on number of transactions and not the monetary volume.&lt;/p&gt;
 &lt;h4 id=&#34;unit-economics-of-anacquirer&#34;&gt;Unit economics of an acquirer&lt;/h4&gt;
 
 &lt;p&gt;
+
+
 &lt;p&gt;With a IC++ merchant pricing model acquiring revenue is always a direct % of the payment amount - it is unaffected by interchange or scheme fees which are passed on to the merchant.
 
 &lt;p&gt;
+
+
 Compared to a blended pricing model, IC++ makes it much easier to project the estimated earnings on the monthly or yearly volume the merchant is expecting.&lt;/p&gt;
 &lt;p&gt;But regardless of the pricing, goal is to keep the platform costs as lower per tx as possible.
 Cloudflare Workers 
-&lt;a href=&#34;https://developers.cloudflare.com/workers/platform/pricing/&#34; target=&#34;_blank&#34;&gt;pricing&lt;/a&gt;) in that respect beats GCP or AWS&lt;/p&gt;
-&lt;h4 id=&#34;cloudflare-workers-as-the-right-platform-choice&#34;&gt;Cloudflare Workers as the right platform choice&lt;/h4&gt;
+&lt;a href=&#34;https://developers.cloudflare.com/workers/platform/pricing/&#34; target=&#34;_blank&#34;&gt;pricing&lt;/a&gt;
+
+ in that respect beats GCP or AWS.&lt;/p&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+
+
 
 
 
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Reviewing my invoices, my experiment with workers and R2 turned out to be a smashing success:&lt;br&gt;&lt;br&gt;💰 Paid Cloudflare $5 for workers, $4.35 for R2 (~300GB)&lt;br&gt;🕺 Cut my AWS bill by $507 &lt;a href=&#34;https://t.co/zLsHEQh7FH&#34;&gt;pic.twitter.com/zLsHEQh7FH&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jan Klimo (@janklimo) &lt;a href=&#34;https://twitter.com/janklimo/status/1590632909182210048?ref_src=twsrc%5Etfw&#34;&gt;November 10, 2022&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+
+
+
+
 
 
 </description>
